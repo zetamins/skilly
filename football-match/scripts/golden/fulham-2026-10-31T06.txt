@@ -1,0 +1,573 @@
+# Aston Villa (home label) v Fulham (away label)
+competition: Premier League; kickoff 2026-10-31T20:00:00.000Z; status notstarted
+SIDE CHECK: squads and forms assigned by name: Fulham -> away, Aston Villa -> home
+venue country: England (home team's country England, away team's England); neutral flag None
+HOME EDGE: the home side gets the edge only when the venue is in ITS country; a venue in a third country is neutral; in the away team's country the edge goes to the away team.
+lineups confirmed: False
+LATE-NEWS WINDOW: kickoff 13 h after the scrape with lineups unconfirmed; late news can still change the picture, so confidence cannot be high
+
+## Aston Villa (home)
+last results (newest first, this team's goals first):
+  2026-10-28 L 0-3 v Bournemouth (away, EFL Cup, xG 3.3-2.58)
+  2026-10-24 W 2-1 v Manchester City (home, Premier League, xG 0.61-1.56)
+  2026-10-21 W 3-1 v Viking FK (home, UEFA Champions League, xG 2.7-0.74)
+  2026-10-17 W 1-0 v Newcastle United (away, Premier League, xG 1.57-0.99)
+  2026-10-14 W 6-0 v Fenerbahçe (home, UEFA Champions League, xG 3.11-1.73)
+  2026-10-10 D 2-2 v Brentford (home, Premier League)
+  2026-09-19 W 3-2 v Tottenham Hotspur (away, Premier League)
+  2026-09-16 W 3-1 v Coventry City (away, EFL Cup)
+  2026-09-12 L 1-2 v Nottingham Forest (home, Premier League)
+  2026-09-08 W 3-2 v Club Brugge KV (away, UEFA Champions League)
+xG per game: for 1.75, against 1.58 over 8 games
+xG CONFLICT: the match rows below carry xG for 5 games (for 2.26, against 1.52) but the xG estimate above covers 8 games; the two sources disagree and which is right is unknown: the anchors use the estimate, so treat both as thin
+Elo: 1568.5 (source sofascore; 'eloratings.net' is a proper national-team rating, anything else is form-only: do NOT read a gap between two form-only numbers as class)
+squad market value: total 603900000, attack 133500000, midfield 282700000, defence 155300000, goalkeeper 32400000
+table: position 9/20, 11 pts from 8 played, GD -3
+rotation between this side's LAST TWO matches (2026-10-24 to 2026-10-28; NOT today's XI, which is unknown until the lineups are out): changed 9 of 11 starters, formation 4-2-3-1 -> 4-2-3-1
+missing players (role and value shown when the report knows them):
+  - Aaron Wan-Bissaka: Hamstring Injury, back 2026-11-20; role D, value 14100000
+  - Amadou Onana: Cruciate Ligament Injury, back 2027-04-20; role M, value 37000000
+  - Matteo Ruggeri: Hamstring Injury, back 2026-12-20; role D, value 27000000
+
+## Fulham (away)
+last results (newest first, this team's goals first):
+  2026-10-28 L 0-1 v Crystal Palace (home, EFL Cup, xG 1.99-0.92)
+  2026-10-24 W 1-0 v Coventry City (away, Premier League, xG 0.55-0.51)
+  2026-10-17 W 1-0 v Hull City (home, Premier League, xG 1.38-0.16)
+  2026-10-10 L 1-2 v Ipswich Town (away, Premier League, xG 1.81-1.15)
+  2026-09-20 D 1-1 v Manchester United (home, Premier League, xG 1.62-1.6)
+  2026-09-15 W 3-2 v West Ham United (away, EFL Cup)
+  2026-09-12 D 0-0 v Liverpool FC (away, Premier League)
+  2026-09-05 L 2-3 v Crystal Palace (home, Premier League)
+  2026-08-30 L 0-1 v Sunderland (away, Premier League)
+  2026-08-27 W 3-0 v AFC Wimbledon (home, EFL Cup)
+xG per game: for 1.56, against 1.00 over 10 games
+xG CONFLICT: the match rows below carry xG for 5 games (for 1.47, against 0.87) but the xG estimate above covers 10 games; the two sources disagree and which is right is unknown: the anchors use the estimate, so treat both as thin
+Elo: 1491.5 (source sofascore; 'eloratings.net' is a proper national-team rating, anything else is form-only: do NOT read a gap between two form-only numbers as class)
+squad market value: total 420955000, attack 61300000, midfield 222030000, defence 131300000, goalkeeper 6325000
+table: position 15/20, 8 pts from 8 played, GD -2
+rotation between this side's LAST TWO matches (2026-10-24 to 2026-10-28; NOT today's XI, which is unknown until the lineups are out): changed 6 of 11 starters, formation 4-2-3-1 -> 4-2-3-1
+missing players (role and value shown when the report knows them):
+  - Ryan Sessegnon: red_card_suspension, back 2026-10-31; role D, value 21000000
+
+no bookmaker odds in the report
+head to head (weak evidence): {'home_wins': 8, 'away_wins': 2, 'draws': 0, 'sample_size': 10}
+
+# KEY METRICS
+| metric | Aston Villa (home) | Fulham (away) |
+|---|---|---|
+| xG for per game | 1.75 (8 games) | 1.56 (10 games) |
+| xG against per game | 1.58 (8 games) | 1.00 (10 games) |
+| goals scored per game (only the games that carry the xG estimate) | 2.25 | 1.20 |
+| goals conceded per game (only the games that carry the xG estimate) | 1.38 | 1.00 |
+| goals minus xG for, per game (finishing luck) | 0.50 | -0.36 |
+| goals conceded minus xG against, per game (defensive luck: negative = lucky) | -0.20 | 0.00 |
+| shots for / against per game | 15.4 / 16.4 (8 games) | 14.5 / 10.8 (10 games) |
+| shots on target for / against per game | 6.1 / 5.0 | 4.6 / 3.1 |
+| big chances created / conceded per game | 3.38 / 3.00 (8 games) | 3.00 / 1.80 (10 games) |
+| big chances missed (own) / missed by opponents per game | 2.12 / 2.12 | 2.60 / 1.40 |
+| touches in the opposition box for / against per game | 25.8 / 33.2 (5 games) | 29.8 / 20.2 (5 games) |
+| crosses for / against per game | 3.4 / 5.6 | 5.4 / 3.8 |
+| aerial duels won % | 46% (71 of 156) | 50% (119 of 237) |
+| pass accuracy % / long-ball share % | 84.6% / 5.4% | 88.6% / 4.2% |
+| goalkeeper save % (a rate far from about 72% rarely lasts) | 73.2% (30 saves from 41 shots on target) | 68.8% (22 saves from 32 shots on target) |
+| corners for / against per game | 5.1 / 5.1 (9 games) | 6.7 / 3.9 (10 games) |
+| yellow / red cards per game | 2.25 / 0.13 | 2.0 / 0.13 |
+| points per game on short rest / long rest | 1.6 (10 games) / 1.68 (19 games) | 1.67 (6 games) / 1.17 (23 games) |
+| points per game v high-possession opponents / others | 3.0 (2 games) / 1.86 (7 games) | 1.0 (2 games) / 1.5 (8 games) |
+| clean sheets in the last N matches | 5 of 20 | 8 of 20 |
+| bench value / starting XI value | 128400000 / 338400000 (bench is 38% of the XI) | 111855000 / 259200000 (bench is 43% of the XI) |
+| last results: goals for / against per game (up to 6, shootout rows skipped) | 2.33 / 1.17 (6 games) | 1.17 / 1.00 (6 games) |
+| last results: points per game (up to 6) | 2.17 (6 games; newest first LWWWWD) | 1.67 (6 games; newest first LWWLDW) |
+Compare per-game figures, not totals, when the sample sizes differ; keep the two teams' numbers on their own side.
+
+# ROLE-BY-ROLE PROFILE
+| indicator | Aston Villa (home) | Fulham (away) |
+|---|---|---|
+| identity (rule: defence-first / attack-led / open / struggling / balanced) | open and loose | attack-led |
+| attack | attacking (creates 1.4+ xG a game) | attacking (creates 1.4+ xG a game) |
+| defence | leaky (concedes 1.5+ xG a game) | solid (concedes under 1.2 xG a game) |
+| passing style | balanced passing | possession-based short passing |
+| midfield | loses the middle (final-third entries x0.77) | dominates the middle (final-third entries x1.22 of the opponents') |
+| goalkeeper | goalkeeper busy because the defence leaks: 5.1 shots on target faced a game (many saves = a weak defence in front of him, not a great keeper) | average goalkeeper workload |
+ATTACK xG for / non-penalty xG / shots in the box / big chances / box touches / xA, per game:
+  Aston Villa: 1.75 / 1.28 / 11.60 / 3.38 / 25.80 / 1.26
+  Fulham: 1.56 / 1.08 / 10.40 / 3.00 / 29.80 / 1.32
+DEFENCE xG against / shots against / tackles / interceptions / clearances / blocks / recoveries, per game:
+  Aston Villa: 1.6 / 16.4 / 18.2 / 7.4 / 26.0 / 4.8 / 44.4
+  Fulham: 1.0 / 10.8 / 14.8 / 5.8 / 25.8 / 3.8 / 45.8
+MIDFIELD possession % / passes / pass accuracy % / long-ball % / final-third entries for-against / field tilt %:
+  Aston Villa: 47.4 / 413.5 / 84.6 / 5.4 / 42.6 / 55.2 / 43.6
+  Fulham: 61.8 / 633.5 / 88.6 / 4.2 / 62.2 / 51.0 / 54.9
+GOALKEEPER saves / shots on target faced per game, save %:
+  Aston Villa: 3.8 / 5.1 / 73.2
+  Fulham: 2.2 / 3.2 / 68.8
+
+## Aston Villa: the players by role (recent window; per 90 minutes; minimum 90 minutes)
+  attackers: Nicolas Jackson (age 25) 320 min: xG 0.42/90, goals 4 vs xG 1.48, shots 4.5/90, rating 8.07 strong form; Ibrahim Mbaye (age 18) 258 min: xG 0.37/90, goals 0 vs xG 1.07, shots 3.1/90, rating 7.10
+  midfielders: João Gomes (age 25) 331 min: key passes 1.1/90, xA 0.16/90, tackles 1.6/90, rating 6.94; John McGinn (age 32) 311 min: key passes 3.2/90, xA 0.28/90, tackles 2.9/90, rating 7.24 strong form; Emiliano Buendía (age 29) 256 min: key passes 2.1/90, xA 0.25/90, tackles 3.2/90, rating 6.60; Boubacar Kamara (age 26) 253 min: key passes 0.4/90, xA 0.02/90, tackles 3.9/90, rating 7.30 strong form; Alysson (age 20) 228 min: key passes 2.4/90, xA 0.48/90, tackles 2.4/90, rating 7.22 strong form
+  defenders: Victor Lindelöf (age 32) 360 min: tackles+interceptions 1.2/90, rating 7.45 strong form; Matty Cash (age 29) 290 min: tackles+interceptions 5.9/90, rating 6.88; Pau Torres (age 29) 283 min: tackles+interceptions 1.0/90, rating 7.20 strong form; Tyrone Mings (age 33) 270 min: tackles+interceptions 0.3/90, rating 6.80; Ian Maatsen (age 24) 180 min: tackles+interceptions 4.0/90, rating 6.40 WEAK form: likely to underperform
+  goalkeeper: Zion Suzuki (age 24) 360 min, rating 7.65 strong form
+
+## Fulham: the players by role (recent window; per 90 minutes; minimum 90 minutes)
+  attackers: Gonzalo García (age 22) 344 min: xG 0.54/90, goals 0 vs xG 2.07, shots 2.6/90, rating 6.32 WEAK form: likely to underperform; Rodrigo Muniz (age 25) 130 min: xG 0.19/90, goals 0 vs xG 0.28, shots 2.1/90, rating 6.55
+  midfielders: Alex Iwobi (age 30) 394 min: key passes 3.7/90, xA 0.47/90, tackles 0.9/90, rating 7.74 strong form; Oscar Bobb (age 23) 388 min: key passes 3.0/90, xA 0.20/90, tackles 1.2/90, rating 7.18; Sander Berge (age 28) 374 min: key passes 1.2/90, xA 0.11/90, tackles 1.0/90, rating 7.16; Josh King (age 19) 347 min: key passes 1.8/90, xA 0.19/90, tackles 0.5/90, rating 7.00; Shea Charles (age 22) 341 min: key passes 0.3/90, xA 0.12/90, tackles 2.4/90, rating 7.43 strong form
+  defenders: Calvin Bassey (age 26) 450 min: tackles+interceptions 4.4/90, rating 7.32 strong form; Antonee Robinson (age 29) 360 min: tackles+interceptions 2.8/90, rating 6.73; David Affengruber (age 25) 360 min: tackles+interceptions 2.5/90, rating 6.82; Timothy Castagne (age 30) 302 min: tackles+interceptions 2.4/90, rating 6.95; Kenny Tete (age 31) 157 min: tackles+interceptions 4.0/90, rating 6.73
+  goalkeeper: Bernd Leno (age 34) 360 min, rating 7.10
+
+How to read it: attackers are judged on xG per 90 and shots (goals far above xG are finishing ... (the full rule is in SKILL.md)
+
+# HEAD TO HEAD: HISTORY, MANAGERS, TACTICS
+History (all meetings the source records): Aston Villa wins 8, draws 0, Fulham wins 2 from 10 meetings; streaks: ["More than 4.5 cards (both): 5/6","Less than 10.5 corners (both): 7/8"]
+Manager of Aston Villa: Unai Emery (Spain, age 54), in charge since 2022-11-01; record at the club W116 D36 L58 (55.2% wins); v Fulham: W0 D0 L1 in 1 games (the source's record only, likely incomplete: use the manager duel below and your own knowledge, labelled)
+Manager of Fulham: Álvaro Arbeloa (Spain, age None), in charge since ?; v Aston Villa: W0 D0 L0 in 0 games (the source's record only, likely incomplete: use the manager duel below and your own knowledge, labelled)
+Manager duel (the two managers' sides against each other): not published
+Expected formations: Aston Villa 4-2-3-1, Fulham 4-2-3-1
+Shape v shape: Aston Villa 4-2-3-1 against Fulham 4-2-3-1
+  Midfield bodies (wide midfielders and wing-backs in the midfield line included; the zones below split them): 5 v 5 -> level in the middle (the duels decide it)
+  Aston Villa's back line (4) v Fulham's front line (1): 3 spare defender(s), the front line has little room to run at
+  Fulham's back line (4) v Aston Villa's front line (1): 3 spare defender(s), the front line has little room to run at
+  Back-five or wing-back shape: Aston Villa no, Fulham no (a back five usually gives up the ball, concedes width high up the pitch and counters; a back four with two holders keeps more of the ball)
+  Which shape is more dominant: neither on paper: the evidence from past meetings and the personnel decides
+  Aston Villa by zone: 2 a flank (full-back and winger), 2 central midfielders with 2 holding, 1 between the lines, 1 up front
+  Fulham by zone: 2 a flank (full-back and winger), 2 central midfielders with 2 holding, 1 between the lines, 1 up front
+  Where Aston Villa is weak on paper: no zone where it is outnumbered
+  Where Fulham is weak on paper: no zone where it is outnumbered
+  Shapes shift in play (a back five becomes a back three with the ball, a 4-3-3 defends as 4-5-1): treat the zones as the starting map; the tactical note and the evidence decide
+  Shape pairing 4-2-3-1 (home side) v 4-2-3-1 (away side) in past meetings: Fulham 1-0 Aston Villa, possession 39%-61%, xG 1.18-0.93
+  2026-04-25 Fulham 1-0 Aston Villa (Premier League): formations 4-2-3-1 v 4-2-3-1; xG 1.18-0.93; possession 39%-61%; referee Michael Oliver
+  2025-09-28 Aston Villa 3-1 Fulham (Premier League): formations None v None; xG None-None; possession None-None; referee None
+  2025-05-03 Aston Villa 1-0 Fulham (Premier League): formations None v None; xG None-None; possession None-None; referee None
+Is the head to head still relevant (same tactical setup, same manager, comparable squads)?
+  2026-04-25 Fulham 1-0 Aston Villa (0.5 years ago): Aston Villa: shape 4-2-3-1 then v 4-2-3-1 now (same); 3 of the same XI; manager already in charge; Fulham: shape 4-2-3-1 then v 4-2-3-1 now (same); 4 of the same XI; manager unknown; context then league or group (Premier League) v now league or group -> NOT RELEVANT (different setup and squad)
+  2025-09-28 Aston Villa 3-1 Fulham (1.1 years ago): Aston Villa: shape ? then v 4-2-3-1 now (different); ? of the same XI; manager already in charge; Fulham: shape ? then v 4-2-3-1 now (different); ? of the same XI; manager unknown; context then league or group (Premier League) v now league or group -> NOT RELEVANT (different setup and squad)
+  2025-05-03 Aston Villa 1-0 Fulham (1.5 years ago): Aston Villa: shape ? then v 4-2-3-1 now (different); ? of the same XI; manager already in charge; Fulham: shape ? then v 4-2-3-1 now (different); ? of the same XI; manager unknown; context then league or group (Premier League) v now league or group -> NOT RELEVANT (different setup and squad)
+How to read it: did the same formations meet before and who controlled it (possession, xG)? Does a ... (the full rule is in SKILL.md)
+
+# FORM WINDOWS: last 5 against last 10, and form inside the head to head
+Aston Villa: last 3 (momentum) LWW (3 games, 2.00 points a game, goals 1.7-1.7 per game, xG 2.20-1.63 per game (3 with xG)); momentum (last 3 v last 10): -0.20 points a game (in line with the longer run)
+Aston Villa: last 5 LWWWW (5 games, 2.40 points a game, goals 2.4-1.0 per game, xG 2.26-1.52 per game (5 with xG))
+Aston Villa: last 10 (stability) LWWWWDWWLW (10 games, 2.20 points a game, goals 2.4-1.4 per game, xG 2.26-1.52 per game (5 with xG)); last 5 v the 5 before: +0.40 points a game (steady)
+Fulham: last 3 (momentum) LWW (3 games, 2.00 points a game, goals 0.7-0.3 per game, xG 1.31-0.53 per game (3 with xG)); momentum (last 3 v last 10): +0.60 points a game (in line with the longer run)
+Fulham: last 5 LWWLD (5 games, 1.40 points a game, goals 0.8-0.8 per game, xG 1.47-0.87 per game (5 with xG))
+Fulham: last 10 (stability) LWWLDWDLLW (10 games, 1.40 points a game, goals 1.2-1.0 per game, xG 1.47-0.87 per game (5 with xG)); last 5 v the 5 before: +0.00 points a game (steady)
+Aston Villa in the head to head: L 0-1, W 3-1, W 1-0 (a hint only: few games, different squads)
+Fulham in the head to head: W 1-0, L 1-3, L 0-1 (a hint only: few games, different squads)
+How to read it: last 5 against last 10 shows whether form is rising or fading; recent form counts ... (the full rule is in SKILL.md)
+
+# STRENGTH OF OPPOSITION, SIMILAR OPPONENTS AND THE REFEREE
+Aston Villa: no opponent ratings (no ClubElo for the opponents and no national Elo file), so the opposition strength cannot be computed (judge it from the opponents' names)
+Fulham: no opponent ratings (no ClubElo for the opponents and no national Elo file), so the opposition strength cannot be computed (judge it from the opponents' names)
+referee: Samuel Barrott; 177 games, 3.8 yellows and 17.55 fouls a game, 0.05 reds, penalties awarded unknown; flagged players: João Gomes, Matty Cash, Ryan Sessegnon
+How to read it: weight the last 5 to 10 results by who they came against; a side that wins only ... (the full rule is in SKILL.md)
+
+# HOME GROUND: HOW HOSTILE IS IT FOR THE VISITORS
+Venue: Villa Park, Birmingham (England); capacity 37000; round/type competitive
+Venue split (only the most recent games whose venue the scraper confirmed, usually 5):
+Aston Villa at home: 3.00 points a game in 3 games; away from home: 1.50 points a game in 2 games
+Fulham away from home: 1.50 points a game in 2 games; at home: 1.33 points a game in 3 games
+From the result rows (last 20, by the fixture's home/away label, confirmed neutral grounds left out): Aston Villa at home 1.78 points a game in 9 games; Fulham away 1.00 points a game in 10 games. Quote this record when it has more games than the venue split; the two differ only in window.
+Venue swing: the home side's home record against the visitors' away record = +0.78 points a game
+Aston Villa win rate in the venue split at home 100% (sample 3), away 50% (sample 2)
+Fulham win rate in the venue split at home 33% (sample 3), away 50% (sample 2)
+Aston Villa home games (3): xG 2.14-1.34, shots 16.333333333333332-13.333333333333334, possession 45.3%, fouls 13.333333333333334-12.333333333333334, yellows 1.3333333333333333-2.0, reds 0-0 (more fouls and cards for the visitors than against them = the crowd and referee leaning on them)
+Fulham away games (2): xG 1.18-0.83, shots 12.5-12.0, possession 58.0%, fouls 10.5-8.5, yellows 3.0-1.0, reds 0-0 (more fouls and cards for the visitors than against them = the crowd and referee leaning on them)
+Trip for the visitors: 162 km, 2.0 h, time-zone shift 0.0 h; the home side travels 0 km
+Past meetings at this ground: 2025-09-28 Aston Villa 3-1 Fulham; 2025-05-03 Aston Villa 1-0 Fulham -> Aston Villa here: WW (2 of the listed meetings; a hint only)
+weather effects: no wind, rain or heat flag at kickoff. Pitch type, surface quality and altitude are not in the data: use your own knowledge and label it unverified.
+How to read it: a loud ground matters when the home side's home record is clearly better than its ... (the full rule is in SKILL.md)
+
+# SHRUNK xG
+Aston Villa: raw 1.75 for / 1.58 against over 8 games -> shrunk 1.58 for / 1.48 against
+  composite (goals 2.40/1.00, xG 1.75/1.58 averaged, as the SPI model does, so no single noisy measure leads): 2.08 for / 1.29 against -> shrunk 1.68 / 1.32 over 5 games
+Fulham: raw 1.56 for / 1.00 against over 10 games -> shrunk 1.48 for / 1.13 against
+  composite (goals 0.80/0.80, xG 1.56/1.00 averaged, as the SPI model does, so no single noisy measure leads): 1.18 for / 0.90 against -> shrunk 1.27 / 1.15 over 5 games
+  venue split (Aston Villa in this venue, 9 games): 2.56 for / 1.22 against -> blended with the overall shrunk numbers: 2.16 / 1.33
+  venue split (Fulham in this venue, 10 games): 0.60 for / 1.10 against -> blended with the overall shrunk numbers: 0.93 / 1.11
+xG anchor from the shrunk numbers: Aston Villa (1.58 + 1.13) / 2 = 1.35; Fulham (1.48 + 1.48) / 2 = 1.48. With the venue edge (home x1.10, away x0.91, from the fitted home advantage; off when the venue is outside the home team country): Aston Villa 1.49, Fulham 1.35  (the unblended overall anchor)
+VENUE-SPLIT xG anchor (2026-11-01: overall rates blend home and away games; a side is priced by its venue-blended numbers when 4+ venue games exist — PREFER THIS ONE when printed): Aston Villa 1.80, Fulham 1.03
+RATING ANCHOR (the class of the two clubs, StatsUltra+form 80.0 v 74.3, gap +5.7 — blended with current-season league form (n/(n+6) weight, capped at 50% of the gap); goal level 2.88 a match, the Premier League average 2019-25): Aston Villa 1.90, Fulham 1.09. This one counts class, which the xG anchor above lacks; on held-out 2026-27 matches it scored about the same as the bookmaker. START from it and move it ONLY for team news (a named absence or a confirmed lineup); form, luck, short samples, tactics and the xG anchor (the cross-check) do not move it.
+composite anchor (cross-check): Aston Villa (1.68 + 1.15) / 2 = 1.41; Fulham (1.27 + 1.32) / 2 = 1.30
+
+# DRAW EVIDENCE
+
+## Aston Villa (last 10 games with a score)
+level finishes: 1 of 10 (1 = 0 goalless + 1 score draws); not won: 3 of 10; decided by one goal or less: 6 of 10; 2 goals or fewer in the game: 1 of 10
+scored 1 or fewer: 3 of 10; conceded 1 or fewer: 5 of 10; average goals in its games 3.80
+xG-tight games (xG within 0.5 either way): 0 of 5 with xG; of those 0 did NOT end level (decided by finishing, not chances)
+
+## Fulham (last 10 games with a score)
+level finishes: 2 of 10 (2 = 1 goalless + 1 score draws); not won: 6 of 10; decided by one goal or less: 9 of 10; 2 goals or fewer in the game: 6 of 10
+scored 1 or fewer: 7 of 10; conceded 1 or fewer: 7 of 10; average goals in its games 2.20
+xG-tight games (xG within 0.5 either way): 2 of 5 with xG; of those 1 did NOT end level (decided by finishing, not chances)
+
+## the two sides together
+shrunk xG anchors on a NEUTRAL ground, no home edge (the goals and underdog slices add the home edge, so their pair differs): Aston Villa 1.35, Fulham 1.48; total 2.84; gap 0.13; a plain independent-goals model at these numbers gives a level finish 25.0% (reference only: the base rate is 23-25%)
+cross-links: Aston Villa attack 1.58 meets Fulham defence 1.13; Fulham attack 1.48 meets Aston Villa defence 1.48; mirror-image matchup if the two anchors are within 0.3 and both attacks are at or below the defences they face
+draw signals present from these numbers: expected goals gap 0.13 is 0.5 or less; both sides play 60% or more of their games to one goal or less (2 of 5 checked)
+How to read it: these are counts over small samples, not probabilities. A level finish rate is ... (the full rule is in SKILL.md)
+
+# CONFIRMED LINEUPS: not checked
+
+# UNDERDOG EVIDENCE
+No clear favourite (shrunk xG anchors with the home edge 1.49-1.35; no Elo): the two readings disagree or are level, so the evidence is shown for BOTH sides as the one that might score; choose the side that is the weaker on the ratings and say so.
+
+## Fulham (underdog) against Aston Villa (favourite)
+Fulham scored in 7 of 10 recent games (1.20 a game); when it scored its record is W4 D1 L2 (1.86 points a game)
+Aston Villa kept a clean sheet in 2 of 10 recent games and conceded in 8
+IF THE UNDERDOG SCORES: Aston Villa's games in which the opponent scored (n=8): W5 D1 L2 (2.00 points a game); games in which it did not (n=2): W2 D0 L0 (3.00 points a game). A favourite that still wins after conceding is robust; one that mostly draws or loses is the draw/upset route
+IF THE UNDERDOG SCORES FIRST (goal times from the match details, 5 of 10 games known): Aston Villa conceded the first goal in 1: W0 D0 L1 (0.00 points a game) (came back to win 0, drew 0); Fulham scored first in 3 of its 4 known games. This is the real version of calc.py's 'If the underdog scores first' line; under 5 games it is a lean
+Aston Villa after half-time: trailing at the break (n=1) W1 D0 L0 (3.00 points a game); level at the break (n=0) W0 D0 L0
+defensive errors (the underdog's gift): errors leading to a shot against Aston Villa 0.40 a game, to a goal 1.00 a game over 5 games; Fulham's own errors lead to 0.20 shots against a game
+other weak spots and routes: duel vulnerabilities [{"name": "Ian Maatsen", "ground_duel_success_pct": 37.84}, {"name": "Victor Lindel\u00f6f", "ground_duel_success_pct": 40}]; Fulham plays 4.2% long balls against opponent aerial wins 45.5%; set pieces: Fulham 0.10 xG for a game v Aston Villa 0.16 against = 0.13 expected; Aston Villa goalkeeper saves 73.2% over 8 games
+CHANCES BUT NO GOALS (the favourite can win the chances and still not win): Aston Villa missed 17 of 27 big chances (63%) over 8 games; Aston Villa goals minus xG +0.50 a game; Fulham goalkeeper saves 68.8% (about 72% is normal); at 1.49 expected goals Aston Villa scores 1 or fewer in 56% of matches even when it creates what it should. Finishing and save rates mostly regress (about 10% of a finishing gap carries forward; a save rate far from 72% rarely lasts): read them as the size of the risk, not a sign it repeats
+expected goals for Fulham from the shrunk anchor: 1.35; a plain independent-goals reading of the chance that it scores at least once is 74% (reference only: the calculator has the final numbers)
+
+## Aston Villa (underdog) against Fulham (favourite)
+FORM v CLASS: the favourite Fulham took 1.40 points a game from its last 5, the underdog Aston Villa 2.40 from its last 5. The backtest found a side on a losing run did slightly worse than its rating expected (no bounce-back), so a small downgrade is fair, a big one is not: class and chances usually outlast a short run. Check that the favourite still creates the chances
+Aston Villa scored in 9 of 10 recent games (2.40 a game); when it scored its record is W7 D1 L1 (2.44 points a game)
+Fulham kept a clean sheet in 4 of 10 recent games and conceded in 6
+IF THE UNDERDOG SCORES: Fulham's games in which the opponent scored (n=6): W1 D1 L4 (0.67 points a game); games in which it did not (n=4): W3 D1 L0 (2.50 points a game). A favourite that still wins after conceding is robust; one that mostly draws or loses is the draw/upset route
+IF THE UNDERDOG SCORES FIRST (goal times from the match details, 4 of 10 games known): Fulham conceded the first goal in 1: W0 D0 L1 (0.00 points a game) (came back to win 0, drew 0); Aston Villa scored first in 4 of its 5 known games. This is the real version of calc.py's 'If the underdog scores first' line; under 5 games it is a lean
+Fulham after half-time: trailing at the break (n=1) W0 D0 L1 (0.00 points a game); level at the break (n=3) W1 D1 L1 (1.33 points a game)
+defensive errors (the underdog's gift): errors leading to a shot against Fulham 0.20 a game, to a goal 0.20 a game over 5 games; Aston Villa's own errors lead to 0.40 shots against a game
+other weak spots and routes: duel vulnerabilities [{"name": "Ryan Sessegnon", "ground_duel_success_pct": 35.29}, {"name": "Antonee Robinson", "ground_duel_success_pct": 44.83}]; full-back exposure [{"name": "Antonee Robinson", "chances_created": 8, "ground_duel_success_pct": 44.83}, {"name": "Timothy Castagne", "chances_created": 4, "ground_duel_success_p; Aston Villa plays 5.4% long balls against opponent aerial wins 50.2%; set pieces: Aston Villa 0.48 xG for a game v Fulham 0.19 against = 0.33 expected; Fulham goalkeeper saves 68.8% over 10 games
+CHANCES BUT NO GOALS (the favourite can win the chances and still not win): Fulham missed 26 of 30 big chances (87%) over 10 games; Fulham goals minus xG -0.36 a game; Aston Villa goalkeeper saves 73.2% (about 72% is normal); at 1.35 expected goals Fulham scores 1 or fewer in 61% of matches even when it creates what it should. Finishing and save rates mostly regress (about 10% of a finishing gap carries forward; a save rate far from 72% rarely lasts): read them as the size of the risk, not a sign it repeats
+expected goals for Aston Villa from the shrunk anchor: 1.49; a plain independent-goals reading of the chance that it scores at least once is 77% (reference only: the calculator has the final numbers)
+How to read it: the underdog can score, and the favourite can still win. The questions are (1) does ... (the full rule is in SKILL.md)
+
+# UNDERDOG STRENGTH
+Underdog: Fulham; favourite: Aston Villa (table 9 v 15 (no class rating gap)).
+against the current top 6 (other than Aston Villa): Fulham W0 D2 L3 in 5 (0.40 points a game), goals 2-8: D 0-0 v Liverpool FC (a), L 2-3 v Chelsea (h), L 0-3 v Arsenal (a), D 0-0 v Brentford (a), L 0-2 v Liverpool FC (a)
+table: Fulham 15 of 20, 8 points from 8, goal difference -2 (-0.25 a game); Aston Villa 9 of 20, 11 points from 8, goal difference -3 (-0.38 a game); early season (under 10 played): the table is mostly noise
+goal difference in the recent games: Fulham +0.00 a game over 20, Aston Villa +0.65 over 20
+VENUE: Fulham at away W2 D4 L4 in 10 (1.00 points a game), goals 6-11; Aston Villa at home W5 D1 L3 in 9 (1.78 points a game), goals 23-11
+form, last 5: Fulham 1.40 points a game (LWWLD), Aston Villa 2.40 (LWWWW)
+UNDERDOG STRENGTH: 0 of 4 signals say Fulham is stronger than the rating gap suggests. An ordinary underdog on this evidence: the class gap stands.
+How to read it: the rating anchor counts class over years; these lines count what the underdog has ... (the full rule is in SKILL.md)
+
+# GAME-STATE EVIDENCE
+
+## Aston Villa
+half-time states (n=5 games with a usable half-time score; neutral venues skipped): leading 4 -> W3 D0 L1 (kept the lead to win in 3, dropped points in 1); level 0 -> W0 D0 L0; trailing 1 -> W1 D0 L0 (came back to win or draw in 1)
+the result changed between half-time and full time in 2 of 5 games
+second-half goals in those games: 5 for, 4 against (1.00 and 0.80 a game)
+goals by half over 20 games: scored 20 in the first half and 21 in the second; conceded 13 and 15
+bench and late goals (5 games with goal times; own goals left out): from the 76th minute on 1 scored and 1 conceded; substitutes scored 1 of its 12 goals in the 5 games with named substitutions. A side that scores late and from the bench keeps chasing a result; one that concedes late drops leads
+defence under pressure: errors leading to a shot against 0.40 a game, to a goal against 1.00 a game over 5 games
+expected shape 4-2-3-1 (4 at the back); last match 4-2-3-1 (4 defenders), the one before 4-2-3-1 (4). The report holds no per-game formation record, so how this side's defence has fared in a back three cannot be counted.
+
+## Fulham
+half-time states (n=5 games with a usable half-time score; neutral venues skipped): leading 1 -> W1 D0 L0 (kept the lead to win in 1, dropped points in 0); level 3 -> W1 D1 L1; trailing 1 -> W0 D0 L1 (came back to win or draw in 0)
+the result changed between half-time and full time in 2 of 5 games
+second-half goals in those games: 3 for, 3 against (0.60 and 0.60 a game)
+goals by half over 20 games: scored 11 in the first half and 10 in the second; conceded 12 and 9
+bench and late goals (5 games with goal times; own goals left out): from the 76th minute on 1 scored and 3 conceded; substitutes scored 0 of its 4 goals in the 5 games with named substitutions. A side that scores late and from the bench keeps chasing a result; one that concedes late drops leads
+defence under pressure: errors leading to a shot against 0.20 a game, to a goal against 0.20 a game over 5 games
+expected shape 4-2-3-1 (4 at the back); last match 4-2-3-1 (4 defenders), the one before 4-2-3-1 (4). The report holds no per-game formation record, so how this side's defence has fared in a back three cannot be counted.
+
+## shapes against each other
+Shape v shape: Aston Villa 4-2-3-1 against Fulham 4-2-3-1
+  Midfield bodies (wide midfielders and wing-backs in the midfield line included; the zones below split them): 5 v 5 -> level in the middle (the duels decide it)
+  Aston Villa's back line (4) v Fulham's front line (1): 3 spare defender(s), the front line has little room to run at
+  Fulham's back line (4) v Aston Villa's front line (1): 3 spare defender(s), the front line has little room to run at
+  Back-five or wing-back shape: Aston Villa no, Fulham no (a back five usually gives up the ball, concedes width high up the pitch and counters; a back four with two holders keeps more of the ball)
+  Which shape is more dominant: neither on paper: the evidence from past meetings and the personnel decides
+  Aston Villa by zone: 2 a flank (full-back and winger), 2 central midfielders with 2 holding, 1 between the lines, 1 up front
+  Fulham by zone: 2 a flank (full-back and winger), 2 central midfielders with 2 holding, 1 between the lines, 1 up front
+  Where Aston Villa is weak on paper: no zone where it is outnumbered
+  Where Fulham is weak on paper: no zone where it is outnumbered
+  Shapes shift in play (a back five becomes a back three with the ball, a 4-3-3 defends as 4-5-1): treat the zones as the starting map; the tactical note and the evidence decide
+
+## how the game may start (reference only)
+first-half goals expected from the shrunk anchors and each side's first-half share of its goals: Aston Villa 0.79, Fulham 0.67; a plain independent-goals reading gives Aston Villa ahead at half-time 35%, level 37%, Fulham ahead 28% (the calculator has the final numbers)
+
+No clear underdog on the ratings: pick the weaker side on the numbers, call it the underdog and argue its path to the lead.
+How to read it: the leader protects the ball, the trailer attacks; take both from the half-time ... (the full rule is in SKILL.md)
+A side that keeps its leads wins the games it starts well; one that drops points from the lead, or comes back from behind, makes a match swing.
+When the trailer chases, its shape (a back three, wing-backs high) and its defensive errors decide whether the leader punishes it on the break; a strong defence that scores can turn the match round.
+Questions: who scores first, does the leader hold, does the trailer pull level, does the lead change hands?
+
+# GOALS EVIDENCE
+
+## Aston Villa (last 10 games with a score)
+3 or more goals in the game: 9 of 10; 4 or more: 6; 2 or fewer: 1; 1 or fewer: 1; average goals in its games 3.80
+both teams scored: 7 of 10; this side kept a clean sheet: 2; failed to score: 1; scored 2.40 and conceded 1.40 a game
+chance totals (games with xG: 5): xG in its games averages 3.78, goals in the same games 3.40 (goals above the chances: totals may fall; below: they may rise)
+
+## Fulham (last 10 games with a score)
+3 or more goals in the game: 4 of 10; 4 or more: 2; 2 or fewer: 6; 1 or fewer: 5; average goals in its games 2.20
+both teams scored: 4 of 10; this side kept a clean sheet: 4; failed to score: 3; scored 1.20 and conceded 1.00 a game
+chance totals (games with xG: 5): xG in its games averages 2.34, goals in the same games 1.60 (goals above the chances: totals may fall; below: they may rise)
+
+## the two sides together
+shrunk xG anchors WITH the home edge (the draw slice shows the neutral-ground pair): Aston Villa 1.49, Fulham 1.35; total 2.84; a plain independent-goals model at these numbers gives over 2.5 53.9% and both teams to score 57.3% (reference only: the calculator has the final numbers and a goals pick needs 60%)
+cross-links: Aston Villa attack 1.58 meets Fulham defence 1.13; Fulham attack 1.48 meets Aston Villa defence 1.48
+over signals present: expected goals total 2.84 is 2.8 or more; under signals present: none
+How to read it: counts over small samples, not probabilities. Argue ONE direction (over 2.5, under ... (the full rule is in SKILL.md)
+
+# CASE EVIDENCE FOR ASTON VILLA
+
+## Aston Villa (last 10 games with a score)
+won 7, lost 2, 2.20 points a game; won by 2 or more 3 times; scored 2 or more in 7 of 10; failed to score in 1; kept a clean sheet in 2; conceded 2 or more in 5
+xG control (games with xG: 5): ahead by 0.5 xG or more in 4 and did not win 1 of those (chances not turned into wins: results may rise); behind by 0.5 or more in 1 and still won 1 (results ahead of the chances: may fall)
+
+## Fulham, the opponent (last 10 games with a score)
+won 4, lost 4, 1.40 points a game; failed to score in 3; conceded 2 or more in 3 of 10 (the Aston Villa attack can exploit this); kept a clean sheet in 4
+opponent xG control (games with xG: 5): behind by 0.5 xG or more in 0 and still won 0; ahead by 0.5 or more in 3 and did not win 2
+
+## the two sides together
+shrunk xG: Aston Villa creates 1.58 and concedes 1.48; Fulham creates 1.48 and concedes 1.13
+cross-links: Aston Villa attack 1.58 meets Fulham defence 1.13 (anchor 1.35); Fulham attack 1.48 meets Aston Villa defence 1.48 (anchor 1.48); anchor gap in Aston Villa's favour -0.13
+case signals present from these numbers for Aston Villa: Aston Villa attack 1.58 is above the defence it meets 1.13; points a game 2.20 v 1.40; Aston Villa out-chanced 1 opponent(s) without winning (results can rise) (3 found)
+How to read it: counts over small samples, not probabilities. Build the case from LINKS (this ... (the full rule is in SKILL.md)
+
+# CASE EVIDENCE FOR FULHAM
+
+## Fulham (last 10 games with a score)
+won 4, lost 4, 1.40 points a game; won by 2 or more 1 times; scored 2 or more in 3 of 10; failed to score in 3; kept a clean sheet in 4; conceded 2 or more in 3
+xG control (games with xG: 5): ahead by 0.5 xG or more in 3 and did not win 2 of those (chances not turned into wins: results may rise); behind by 0.5 or more in 0 and still won 0 (results ahead of the chances: may fall)
+
+## Aston Villa, the opponent (last 10 games with a score)
+won 7, lost 2, 2.20 points a game; failed to score in 1; conceded 2 or more in 5 of 10 (the Fulham attack can exploit this); kept a clean sheet in 2
+opponent xG control (games with xG: 5): behind by 0.5 xG or more in 1 and still won 1; ahead by 0.5 or more in 4 and did not win 1
+
+## the two sides together
+shrunk xG: Fulham creates 1.48 and concedes 1.13; Aston Villa creates 1.58 and concedes 1.48
+cross-links: Fulham attack 1.48 meets Aston Villa defence 1.48 (anchor 1.48); Aston Villa attack 1.58 meets Fulham defence 1.13 (anchor 1.35); anchor gap in Fulham's favour +0.13
+case signals present from these numbers for Fulham: the opponent conceded 2 or more in 5 of 10; Fulham out-chanced 2 opponent(s) without winning (results can rise) (2 found)
+How to read it: counts over small samples, not probabilities. Build the case from LINKS (this ... (the full rule is in SKILL.md)
+
+# PLAYER RATINGS COMPARED
+| line | Aston Villa (home) | Fulham (away) | edge |
+|---|---|---|---|
+| goalkeeper | 7.24 | 7.16 | level |
+| defenders | 7.01 | 6.96 | level |
+| midfielders | 7.08 | 7.22 | level |
+| attackers | 7.64 | 6.38 | Aston Villa +1.25 |
+Aston Villa: best rated Nicolas Jackson 8.07, Johan Manzambi 7.70, Zion Suzuki 7.65; weak form (under 6.6, likely to underperform): Ian Maatsen 6.40
+Fulham: best rated Alex Iwobi 7.74, Shea Charles 7.43, Calvin Bassey 7.32; weak form (under 6.6, likely to underperform): Gonzalo García 6.32
+How to read it: a line rated clearly higher than the opposing line has been playing better against ... (the full rule is in SKILL.md)
+
+# FLANKS
+Aston Villa: crosses 3.4 for / 5.6 against per game; dribbles 10.0 / 9.2; shots outside the box 4.6 / 5.0; touches in the box 25.8 / 33.2; formation 4-2-3-1 (back four: full-backs)
+  Aston Villa outfield regulars to place on a flank (left back, right back, left or right wing, centre): Victor Lindelöf (D, 360 min, rating 7.45, KP 0.2/90, wide-back starts 0, centre-back starts 4); Matty Cash (D, 290 min, rating 6.88, KP 0.6/90, wide-back starts 3, centre-back starts 0); Pau Torres (D, 283 min, rating 7.2, KP 0.3/90, wide-back starts 0, centre-back starts 3); Tyrone Mings (D, 270 min, rating 6.8, KP 0.3/90, wide-back starts 1, centre-back starts 2); João Gomes (M, 331 min, rating 6.94, KP 1.1/90, wide-back starts 1, centre-back starts 0); John McGinn (M, 311 min, rating 7.24, KP 3.2/90, wide-back starts 0, centre-back starts 0); Emiliano Buendía (M, 256 min, rating 6.6, KP 2.1/90, wide-back starts 0, centre-back starts 0); Boubacar Kamara (M, 253 min, rating 7.3, KP 0.4/90, wide-back starts 0, centre-back starts 0); Nicolas Jackson (F, 320 min, rating 8.07, KP 1.7/90, wide-back starts 0, centre-back starts 0)
+Fulham: crosses 5.4 for / 3.8 against per game; dribbles 7.6 / 5.8; shots outside the box 3.4 / 5.2; touches in the box 29.8 / 20.2; formation 4-2-3-1 (back four: full-backs)
+  Fulham outfield regulars to place on a flank (left back, right back, left or right wing, centre): Calvin Bassey (D, 450 min, rating 7.32, KP 0.0/90, wide-back starts 0, centre-back starts 5); Antonee Robinson (D, 360 min, rating 6.73, KP 1.0/90, wide-back starts 4, centre-back starts 0); David Affengruber (D, 360 min, rating 6.82, KP 0.2/90, wide-back starts 0, centre-back starts 4); Timothy Castagne (D, 302 min, rating 6.95, KP 0.3/90, wide-back starts 3, centre-back starts 0); Alex Iwobi (M, 394 min, rating 7.74, KP 3.7/90, wide-back starts 0, centre-back starts 0); Oscar Bobb (M, 388 min, rating 7.18, KP 3.0/90, wide-back starts 0, centre-back starts 0); Sander Berge (M, 374 min, rating 7.16, KP 1.2/90, wide-back starts 0, centre-back starts 0); Josh King (M, 347 min, rating 7.0, KP 1.8/90, wide-back starts 0, centre-back starts 0); Gonzalo García (F, 344 min, rating 6.32, KP 0.8/90, wide-back starts 0, centre-back starts 0)
+Goals in the past meetings (who scored, to place the route): 2026-04-25 43' Ryan Sessegnon (Fulham, regular)
+How to read it: place each side's wide players on left and right from your knowledge, then compare ... (the full rule is in SKILL.md)
+
+# PSYCHOLOGY: HOW EACH SIDE REACTS WHEN LOSING, LEADING AND AFTER DEFEAT
+Aston Villa: current streak 1L; losing-run context {"streak_count":0,"xg_delta":null,"potential_turnaround":null}; streak stability {"streak_result":"L","streak_count":1,"changed_players":9,"stable":false}
+  after a defeat (next-match results, newest first): WDLLW = 1.40 points a game (sample 5)
+  trailing at half time in 1 of 5 games with half-time scores: got something in 1, won 1; leading at half time in 4: dropped points in 1
+  half split (20 games): first half 20-13, second half 21-15 (a slow starter or a side that fades shows here)
+  resilience: {"non_win_sample_size":9,"draw_share_pct":33}; errors leading to a goal for/against 2/5; stakes: {"position":9,"total_teams":20,"zone":"midtable","points_from_boundary":4,"in_the_mix":true}
+Fulham: current streak 1L; losing-run context {"streak_count":0,"xg_delta":null,"potential_turnaround":null}; streak stability {"streak_result":"L","streak_count":1,"changed_players":6,"stable":false}
+  after a defeat (next-match results, newest first): WDLWDLD = 1.29 points a game (sample 7)
+  trailing at half time in 1 of 5 games with half-time scores: got something in 0, won 0; leading at half time in 1: dropped points in 0
+  half split (20 games): first half 11-12, second half 10-9 (a slow starter or a side that fades shows here)
+  resilience: {"non_win_sample_size":13,"draw_share_pct":38}; errors leading to a goal for/against 1/1; stakes: {"position":15,"total_teams":20,"zone":"midtable","points_from_boundary":1,"in_the_mix":true}
+Aston Villa - motivation quality: ROTATING (a changed XI and a close next match); emotional control proxy (discipline): 9 yellows and 0 reds in 5 games with venue data; record by competition: Premier League W5 D3 L4 (12); UEFA Champions League W3 D0 L0 (3); EFL Cup W1 D0 L1 (2)
+Fulham - motivation quality: SECURE (nothing decided either way: motivation is ordinary); emotional control proxy (discipline): 12 yellows and 1 reds in 5 games with venue data; record by competition: Premier League W5 D5 L7 (17); EFL Cup W2 D0 L1 (3)
+Not in the data (label your own knowledge, unverified): confidence, anxiety and focus as such, dressing-room cohesion, how the pre-match meeting is timed, crowd-pressure response in derbies and knockout ties, player-specific pressure response, routine disruption and emotional readiness. The proxies above are results after defeat, points rescued and dropped, a new manager, frozen-out players, discipline, a travel and rest load, and the record in similar competitions.
+How to read it: a side on a losing run usually tries to bounce back (more intensity, a changed XI), ... (the full rule is in SKILL.md)
+
+# GAPS BETWEEN MATCHES, FATIGUE AND UNDERPERFORMING (same reading for both sides)
+Aston Villa: days between its last matches (newest first) [4, 3, 4, 3, 4, 21]; 3 days since the last match; matches in the last 7/14 days 2/4
+  on short rest (4 days or fewer after the previous match): 2.25 points a game in 8 games; on longer rest: 1.00 points a game in 1 games
+  results against chances, last 5 games with xG: scored +0.14 goals a game against its xG, conceded -0.52 against xG against  <-- conceding LESS than the chances allowed (keeper hot or lucky)
+  report's own short/long rest record: {"short_rest_ppg":1.6,"short_rest_sample_size":10,"long_rest_ppg":1.68,"long_rest_sample_size":19}
+Fulham: days between its last matches (newest first) [4, 7, 7, 20, 5, 3]; 3 days since the last match; matches in the last 7/14 days 2/3
+  on short rest (4 days or fewer after the previous match): 1.00 points a game in 3 games; on longer rest: 1.33 points a game in 6 games
+  results against chances, last 5 games with xG: scored -0.67 goals a game against its xG, conceded -0.07 against xG against  <-- UNDERPERFORMING in attack (finishing below chances: expect a return to the xG level, not above it; only about 10% of a finishing gap carries into the next games and nothing is 'owed')
+  report's own short/long rest record: {"short_rest_ppg":1.67,"short_rest_sample_size":6,"long_rest_ppg":1.17,"long_rest_sample_size":23}
+Aston Villa: matches after this one (the first listed is the NEXT match): FC Barcelona on 2026-11-03 (3 days after the previous match); Manchester United on 2026-11-08 (5 days after the previous match); changed 9 of 11 starters between its last two matches (not today's XI)  <-- the next match comes within 4 days: rotation risk if it matters more
+Fulham: matches after this one (the first listed is the NEXT match): Newcastle United on 2026-11-07 (7 days after the previous match); Manchester City on 2026-11-21 (14 days after the previous match); changed 6 of 11 starters between its last two matches (not today's XI)
+Rotation logic: a manager benches or rests regulars when the NEXT match matters more than this one (a cup tie, a title or relegation decider, a knockout leg, a derby) especially with a short gap and a squad that has played heavy minutes, or when this match has little at stake (qualified, eliminated, a friendly). Judge from the report's stakes, the standings zone and the next fixtures above which match is the priority for EACH side; if you know a next fixture is crucial (labelled unverified), estimate how many starters change and which positions (usually the older, heavily used regulars and the goalkeeper only rarely), then discount that side's strength and say so. Never assume the full XI plays when rotation is plausible.
+How to read it: short gaps, three matches in 7 days and the same regulars playing every minute lead ... (the full rule is in SKILL.md)
+
+# BIG TEAM v SMALL TEAM: COMPLACENCY AND UPSET RISK
+Elo gap: not available; judge the gap from squad value, ratings and results
+How to read it: see the rule in the skill (complacency lens).
+
+# MANAGER'S PRE-MATCH CHECKLIST
+
+## Aston Villa
+1 fitness and sharpness: predicted starters with little recent football (under 150 min in the window, rusty or just back): none; starters carrying a heavy load (270+ min): Zion Suzuki 360 min, Matty Cash 290 min, Victor Lindelöf 360 min, Pau Torres 283 min, João Gomes 331 min, John McGinn 311 min, Nicolas Jackson 320 min; matches in the last 7 days 2
+2 in form / struggling (average rating, predicted XI): in form Nicolas Jackson 8.07, Johan Manzambi 7.70, Zion Suzuki 7.65; struggling Ian Maatsen 6.40
+3 lineup fits the system: formation 4-2-3-1 needs D4 M5 F1; the predicted XI has D4 M5 F1 -> fits; defenders who have started wide before: 2
+4 morale and confidence (PROXIES only: the report has no dressing-room data): streak 1L; last 5 LWWWW; high-value players with little football (possibly frozen out or unhappy): Amadou Onana; manager settled, in charge 1460 days (the system has had that long to bed in); recent transfers [{"player_name":"Leon Bailey","direction":"out","from_club":"Aston Villa","to_club":"Olympiacos FC","date":"2026-09-02T0...
+5 injuries, suspensions, rotation: 3 absent (see ABSENCES AND REPLACEMENTS); changed 9 starters between its last two matches, not today's XI (see the GAPS BETWEEN MATCHES section for the rotation logic)
+6 opponent (Fulham): likely setup 4-2-3-1; its style, key players and weak areas are in the tactical note and the SCOUTING REPORT for Fulham
+7 importance: standing 9/20 (midtable, 4 pts from the boundary); next match FC Barcelona in 3 days
+8 bench and flexibility: bench listed D0 M0 F0 (not listed); healthy squad D7 M10 F5 (a back-three/back-four switch needs 5+ defenders, an extra striker 3+ forwards); reserves worth 100% of the regulars in market value
+
+## Fulham
+1 fitness and sharpness: predicted starters with little recent football (under 150 min in the window, rusty or just back): none; starters carrying a heavy load (270+ min): Bernd Leno 360 min, Timothy Castagne 302 min, David Affengruber 360 min, Calvin Bassey 450 min, Antonee Robinson 360 min, Sander Berge 374 min, Shea Charles 341 min, Oscar Bobb 388 min, Josh King 347 min, Alex Iwobi 394 min, Gonzalo García 344 min; matches in the last 7 days 2
+2 in form / struggling (average rating, predicted XI): in form Alex Iwobi 7.74, Shea Charles 7.43, Calvin Bassey 7.32; struggling Gonzalo García 6.32
+3 lineup fits the system: formation 4-2-3-1 needs D4 M5 F1; the predicted XI has D4 M5 F1 -> fits; defenders who have started wide before: 2
+4 morale and confidence (PROXIES only: the report has no dressing-room data): streak 1L; last 5 LWWLD; high-value players with little football (possibly frozen out or unhappy): Kevin; manager settled; recent transfers [{"player_name":"Luc De Fougerolles","direction":"out","from_club":"Fulham","to_club":"Real Salt Lake","date":"2026-09-0...
+5 injuries, suspensions, rotation: 1 absent (see ABSENCES AND REPLACEMENTS); changed 6 starters between its last two matches, not today's XI (see the GAPS BETWEEN MATCHES section for the rotation logic)
+6 opponent (Aston Villa): likely setup 4-2-3-1; its style, key players and weak areas are in the tactical note and the SCOUTING REPORT for Aston Villa
+7 importance: standing 15/20 (midtable, 1 pts from the boundary); next match Newcastle United in 7 days
+8 bench and flexibility: bench listed D0 M0 F0 (not listed); healthy squad D7 M12 F3 (a back-three/back-four switch needs 5+ defenders, an extra striker 3+ forwards); reserves worth 57% of the regulars in market value
+How to read it: for each side say who is rusty, who is flying, whether the XI fits the shape, any ... (the full rule is in SKILL.md)
+
+# HOME v AWAY STYLE AND INTENSITY
+
+## Aston Villa (playing home here)
+as home side: 3 games: possession 45%, shots 16.33-13.33, xG 2.14-1.34, fouls 13.33, yellows 1.33 a game; as away side: 2 games: possession 50%, shots 16.00-17.50, xG 2.44-1.78, fouls 13.00, yellows 2.50 a game; swing: possession -5 points, xG difference +0.15 (thin samples: a tendency only)
+running (overall, not by venue): 90 km, 86 sprints a game v opponents 90 km, 97; fouls and yellows are the venue proxy
+expected role here: default: takes the initiative, higher press, more possession; if it falls behind it tends to raise its tempo and intensity, if it leads it protects the lead
+
+## Fulham (playing away here)
+as away side: 2 games: possession 58%, shots 12.50-12.00, xG 1.18-0.83, fouls 10.50, yellows 3.00 a game; as home side: 3 games: possession 64%, shots 14.67-12.67, xG 1.66-0.89, fouls 11.00, yellows 2.00 a game; swing: possession -6 points, xG difference -0.42 (thin samples: a tendency only)
+running (overall, not by venue): 95 km, 77 sprints a game v opponents 93 km, 79; fouls and yellows are the venue proxy
+expected role here: default: more cautious, compact, focused on transitions; if it falls behind it tends to raise its tempo and intensity, if it leads it protects the lead
+How to read it: location changes initiative, pressing and caution (the crowd, the familiar pitch, ... (the full rule is in SKILL.md)
+
+# UNDERLYING STATS
+Aston Villa: xPTS 8.8 v actual 12 points over 5 games with xG (+3.2: OVERPERFORMING its chances, expect a drop)
+
+## Aston Villa
+created: 1.75 xG, 15.38 shots, 11.60 in the box, 3.38 big chances, 0.11 xG per shot; conceded: 1.58 xG, 16.38 shots, 0.10 xG per shot
+luck against performance (last games with xG): goals 0.14 against xG scored, -0.52 against xG conceded; goalkeeper save 73% with 5.12 shots on target faced a game (3.75 saves)
+xG / xGA trend (are the results sustainable?): last 2 games xG 1.95 for / 2.07 against against the 2 before 2.14 / 0.86 (creating the same, conceding more)
+set pieces: xG for 2.42 and against 0.81 over 5 games; corners 5.11 a game; opponent aerial win 50%; crosses 3.40 for / 5.60 against a game
+Fulham: xPTS 9.0 v actual 7 points over 5 games with xG (-2.0: results match the underlying numbers)
+
+## Fulham
+created: 1.56 xG, 14.50 shots, 10.40 in the box, 3.00 big chances, 0.11 xG per shot; conceded: 1.00 xG, 10.80 shots, 0.09 xG per shot
+luck against performance (last games with xG): goals -0.67 against xG scored, -0.07 against xG conceded; goalkeeper save 69% with 3.20 shots on target faced a game (2.20 saves)
+xG / xGA trend (are the results sustainable?): last 2 games xG 1.27 for / 0.72 against against the 2 before 1.59 / 0.65 (creating less, conceding the same)
+set pieces: xG for 0.50 and against 0.93 over 5 games; corners 6.70 a game; opponent aerial win 46%; crosses 5.40 for / 3.80 against a game
+Aston Villa - scoring and concession profile: clean sheets 20%, failed to score 10%, both teams scored 70%, over 2.5 90%; timing: 33 goals in first halves (for + against) and 36 in second halves over 20 games; second-half goals for 21 against 15 (minute-level timing and final-15-minute figures are not in the data)
+Fulham - scoring and concession profile: clean sheets 40%, failed to score 30%, both teams scored 40%, over 2.5 40%; timing: 23 goals in first halves (for + against) and 19 in second halves over 20 games; second-half goals for 10 against 9 (minute-level timing and final-15-minute figures are not in the data)
+
+SET-PIECE EDGE (a separate edge in tight games): Aston Villa's set-piece xG for 0.48 v Fulham's against 0.19 a game = 0.33 expected; Fulham's for 0.10 v Aston Villa's against 0.16 = 0.13; edge to Aston Villa (0.20 xG a game)
+Aston Villa - location and quality: 72% of its shots from inside the box (67% of those it concedes); xA 1.26 for / 1.27 against a game (chance-creation quality); turnovers (times dispossessed) 5.80 a game v 6.60 forced on opponents (press resistance proxy); errors leading to a shot 0.20 / against 0.40, to a goal 0.40 / against 1.00 a game; territory: field tilt 44%, final-third entries 43 v 55 a game, touches in the box 26 v 33
+Fulham - location and quality: 75% of its shots from inside the box (58% of those it concedes); xA 1.32 for / 0.80 against a game (chance-creation quality); turnovers (times dispossessed) 5.00 a game v 8.20 forced on opponents (press resistance proxy); errors leading to a shot 0.80 / against 0.20, to a goal 0.20 / against 0.20 a game; territory: field tilt 55%, final-third entries 62 v 51 a game, touches in the box 30 v 20
+How to read it: compare created against conceded for both sides, shot quality (xG per shot) not ... (the full rule is in SKILL.md)
+
+# MATCH-STAT PROFILE
+Aston Villa: attack 6.1 shots on target a game (40% of its shots on target, 0.37 goals per shot on target, about 0.30 is normal); defence 5.0 shots on target conceded a game (opponents hit the target with 31%); box 72% of its shots from inside the box, 67% of shots against from inside the box (5 games); keeper 3.8 saves a game, 73.2% saved (many saves = the defenders let shots through; about 72% is normal); ball possession 46%, pass accuracy 85%, long balls 5%; corners 5.1 won / 5.1 conceded a game (50% share); fouls 12.1 committed / 14.1 suffered a game, 2.25 yellows a game
+Fulham: attack 4.6 shots on target a game (32% of its shots on target, 0.26 goals per shot on target, about 0.30 is normal); defence 3.1 shots on target conceded a game (opponents hit the target with 29%); box 75% of its shots from inside the box, 58% of shots against from inside the box (5 games); keeper 2.2 saves a game, 68.8% saved (many saves = the defenders let shots through; about 72% is normal); ball possession 58%, pass accuracy 89%, long balls 4%; corners 6.7 won / 3.9 conceded a game (63% share); fouls 10.1 committed / 9.4 suffered a game, 2.00 yellows a game
+links: Aston Villa attack 6.1 shots on target a game meets Fulham conceding 3.1: about 4.6 expected; Fulham attack 4.6 shots on target a game meets Aston Villa conceding 5.0: about 4.8 expected; Aston Villa is about average at keeping shots out of its box (67% of shots against from inside the box; about 60% is typical); Fulham is about average at keeping shots out of its box (58% of shots against from inside the box; about 60% is typical); possession 46% v 58%: Fulham should keep the ball, Aston Villa sits off and counters; corners expected 4.5 for Aston Villa and 5.9 for Fulham: the side with more corners usually has the territory and the pressure
+How to read it: shots on target show how efficient an attack is and how much a defence gives up; ... (the full rule is in SKILL.md)
+
+# SUBSTITUTION PATTERNS
+
+## Aston Villa
+most used as substitutes (sub appearances / starts): Leon Goretzka (M) 4/1, 25 min an appearance; Alejandro Garnacho (F) 3/0, 20 min an appearance; Ross Barkley (M) 3/2, 43 min an appearance; Tammy Abraham (F) 3/0, 16 min an appearance
+starters usually taken off early (under 75 minutes an appearance, 2+ starts): Ross Barkley (M) 43 min over 5 games; Alysson (M) 46 min over 5 games; Ibrahim Mbaye (F) 52 min over 5 games; John McGinn (M) 62 min over 5 games
+bench contribution (goals+assists by players who mostly come on): Ross Barkley 4 (xG+xA 0.52/90); Tammy Abraham 1 (xG+xA 1.67/90); unused bench places by player show the manager's rotation limits: Lamare Bogarde 4, Marco Bizot 4, Boubacar Kamara 2
+timing and scoreline (only the 1 past meetings with a timeline: a thin sample): around 60-75 4, late (76+) 1; score when the changes were made: trailing 5
+
+## Fulham
+most used as substitutes (sub appearances / starts): César Palacios (M) 3/1, 26 min an appearance; Kevin (M) 3/0, 14 min an appearance; Rodrigo Muniz (F) 3/1, 32 min an appearance; Tom Cairney (M) 3/0, 18 min an appearance
+starters usually taken off early (under 75 minutes an appearance, 2+ starts): Hugo Larsson (M) 36 min over 4 games; Kenny Tete (D) 52 min over 3 games; Gonzalo García (F) 69 min over 5 games; Josh King (M) 69 min over 5 games
+bench contribution (goals+assists by players who mostly come on): Ryan Sessegnon 1 (xG+xA 0.14/90); unused bench places by player show the manager's rotation limits: Manuel Ángel Morán 4, Benjamin Lecomte 4, Joachim Andersen 3
+timing and scoreline (only the 1 past meetings with a timeline: a thin sample): late (76+) 3, around 60-75 1; score when the changes were made: leading 4
+How to read it: the players used most as substitutes and those taken off early show the rotation ... (the full rule is in SKILL.md)
+
+# SCOUTING REPORT
+
+## Aston Villa
+1 shape: in possession 4-2-3-1; out of possession 4-2-3-1 (a mid-block, inferred); possession 47.40% and field tilt 43.60%
+2 build-up, creation and defending: balanced passing; attacking (creates 1.4+ xG a game); leaky (concedes 1.5+ xG a game) (numbers under CURRENT STATE below)
+3 key players and where they are dangerous: Alysson (M, rating 7.22, xG+xA 0.91/90); Emiliano Buendía (M, rating 6.6, xG+xA 0.96/90); Nicolas Jackson (F, rating 8.07, xG+xA 0.56/90) (position labels only: the report has no shot locations or heat maps)
+4 set pieces: set-piece xG for 2.42 and against 0.81 over 5 games; corners 5.11 a game (corner goals for/against 2/1); opponent wins 50% of aerial duels; the routines themselves (short, near-post, outswinger) are NOT in the data: say so or label your own knowledge
+5 pressing, defensive line and transitions (proxies): pressing high (tackles+interceptions 25.60 and recoveries 44.40 a game); line height low (catches 1.00 opponents offside a game); transitions: 16.38 shots against a game and 1.58 xG against
+6 weak areas to attack: 5 errors led to goals against (vulnerable under pressure); 5.1 shots on target faced a game (a leaky defence); loses the midfield battle
+
+## Fulham
+1 shape: in possession 4-2-3-1 with the full-backs/wing-backs high; out of possession 4-2-3-1 (a mid-block, inferred); possession 61.80% and field tilt 54.90%
+2 build-up, creation and defending: possession-based short passing; attacking (creates 1.4+ xG a game); solid (concedes under 1.2 xG a game) (numbers under CURRENT STATE below)
+3 key players and where they are dangerous: Alex Iwobi (M, rating 7.74, xG+xA 0.71/90); Oscar Bobb (M, rating 7.18, xG+xA 0.44/90); Josh King (M, rating 7.0, xG+xA 0.38/90) (position labels only: the report has no shot locations or heat maps)
+4 set pieces: set-piece xG for 0.50 and against 0.93 over 5 games; corners 6.70 a game (corner goals for/against 2/0); opponent wins 46% of aerial duels; the routines themselves (short, near-post, outswinger) are NOT in the data: say so or label your own knowledge
+5 pressing, defensive line and transitions (proxies): pressing high (tackles+interceptions 20.60 and recoveries 45.80 a game); line height medium (catches 1.20 opponents offside a game); transitions: 10.80 shots against a game and 1.00 xG against
+6 weak areas to attack: none visible in the data
+How to read it: for each side say its shape in and out of possession, how it builds, creates and ... (the full rule is in SKILL.md)
+
+# PRESS v BUILD-UP
+CLASH: Aston Villa presses high (25.60 tackles+interceptions a game) and Fulham builds short from the back (pass accuracy 88.60%, long balls 4.20%); Fulham's own errors lead to 0.20 shots against a game, dispossessed 5.00 a game -> Fulham looks press-resistant on these numbers: the press costs Aston Villa legs more than it wins goals
+How to read it: the press-v-build-up route widens the underdog's and the draw's tail (an early goal ... (the full rule is in SKILL.md)
+
+# ERROR-PRONE PLAYERS
+Aston Villa: Lamare Bogarde (M): 1 leading to a goal, 0 to a shot in 1 appearances (90 min); Marco Bizot (G): 1 leading to a goal, 0 to a shot in 1 appearances (90 min)
+Fulham: Alex Iwobi (M): 1 leading to a goal, 0 to a shot in 5 appearances (394 min)
+How to read it: a starter who gave away goals by error is a live route for the other side (press ... (the full rule is in SKILL.md)
+
+# CHAOS EVIDENCE
+errors leading to a goal against, a game: Aston Villa 1.00 (n=5); Fulham 0.20 (n=5) -> Aston Villa more exposed
+errors leading to a shot against, a game: Aston Villa 0.40 (n=5); Fulham 0.20 (n=5) -> Aston Villa more exposed
+big chances missed, a game (finishing that can go cold): Aston Villa 2.12 (n=8); Fulham 2.60 (n=10) -> Fulham more exposed
+fouls committed, a game (free kicks and penalties given away): Aston Villa 12.12 (n=8); Fulham 10.10 (n=10) -> Aston Villa more exposed
+penalties conceded, a game (a converted one is close to a certain goal): Aston Villa 0.00 (n=5); Fulham 0.00 (n=5)
+keeper save % (about 70% is normal; far below it can bounce back or keep leaking, far above it can run out): Aston Villa 73.2% (n=8); Fulham 68.8% (n=10) -> Fulham more exposed (the lower save rate)
+set pieces: Aston Villa set-piece xG 0.48 for / 0.16 against a game; Fulham set-piece xG 0.10 for / 0.19 against a game
+cards a game, overall: Aston Villa 2.25 yellow, 0.13 red; Fulham 2.00 yellow, 0.13 red
+cards a game, at THIS fixture's venue for each side (Aston Villa home, Fulham away): Aston Villa 1.60 yellow, 0.00 red (n=5); Fulham 2.00 yellow, 0.00 red (n=5)
+players one card from a ban or already sent off this run: Aston Villa: João Gomes (2y, sent off this run); Matty Cash (4y) | Fulham: Ryan Sessegnon (0y, sent off this run)
+referee card risk: Samuel Barrott averages 3.8 yellows a game
+RED-CARD RISK INDEX (fragility input, not a priced market): a red card is a ~22% proposition this match (~25%+ (HIGH) — referee Samuel Barrott 3.8 YC/g (x0.95); home cards 2.25 YC/g (x1.25^0.5); away cards 2.00 YC/g (x1.17^0.5); 3 players one booking from a ban)
+EXPOSURE TALLY (factors where one side is worse, out of the comparable ones above): Aston Villa 3, Fulham 2
+how close the forecast is: rating-anchor expected goals 1.90-1.09, gap 0.80 (a clear favourite: chaos must be large to overturn it)
+How to read it: these factors decided Villa 2-1 City, Palace 0-2 Newcastle and Hull 1-1 Brentford ... (the full rule is in SKILL.md)
+
+# TACTICAL ADJUSTMENTS, GAP ANALYSIS AND ROTATION
+
+## Aston Villa
+CURRENT STATE: build-up balanced passing (pass accuracy 84.60%, long balls 5.40%); pressing PROXY (no pressing data in the report) high activity (tackles+interceptions 25.60 and recoveries 44.40 a game); chance creation attacking (creates 1.4+ xG a game) (1.75 xG, 11.60 shots in the box a game; shot quality 0.11 xG per shot created, 0.10 conceded); defending transitions leaky (concedes 1.5+ xG a game) (1.58 xG and 16.38 shots against a game); midfield loses the middle (final-third entries x0.77)
+TARGET STATE: progress under Fulham's possession game and protect the transition behind the ball
+GAP: loses the midfield battle; concedes 1.58 xG and 16.38 shots a game, so transitions are exposed
+ROOT CAUSE candidates: fatigue (2 matches in 7 days, 7 starters on 270+ minutes); missing players (Amadou Onana, Aaron Wan-Bissaka, Matteo Ruggeri); players in poor form (Ian Maatsen)
+ADJUSTMENTS: formation: from 4-2-3-1 go to a five-man midfield or an extra holder; pressing intensity: press lower and save legs; defensive line: drop the line to protect space behind; midfield balance: add an extra holding midfielder; attacking width: wingers narrower to crowd the middle; build-up: go more direct to bypass the press; marking plan: target Fulham's key player (Alex Iwobi); set pieces: standard routines
+TRIGGERS fired: opponent formation 4-2-3-1 and style possession-based short passing; 3 missing; evenly matched; fatigue yes, heat no, importance normal; game state (decide for each side): if trailing, add a forward and push the full-backs; if leading, add a holder, drop the line and slow the game
+ROTATION: LIKELY (fatigue yes, 7 starters on 270+ minutes, next match within 4 days); protect Alysson, Emiliano Buendía, Nicolas Jackson; rest the heavily used lower-impact starters first
+
+## Fulham
+CURRENT STATE: build-up possession-based short passing (pass accuracy 88.60%, long balls 4.20%); pressing PROXY (no pressing data in the report) high activity (tackles+interceptions 20.60 and recoveries 45.80 a game); chance creation attacking (creates 1.4+ xG a game) (1.56 xG, 10.40 shots in the box a game; shot quality 0.11 xG per shot created, 0.09 conceded); defending transitions solid (concedes under 1.2 xG a game) (1.00 xG and 10.80 shots against a game); midfield dominates the middle (final-third entries x1.22 of the opponents')
+TARGET STATE: control the midfield and create more xG than it concedes
+GAP: no clear gap on these indicators
+ROOT CAUSE candidates: fatigue (2 matches in 7 days, 11 starters on 270+ minutes); missing players (Ryan Sessegnon); players in poor form (Gonzalo García)
+ADJUSTMENTS: formation: no change expected; pressing intensity: press lower and save legs; defensive line: normal height; midfield balance: keep the shape and add a runner for the second balls; attacking width: keep natural width; build-up: play through midfield, patient circulation; marking plan: target Aston Villa's key player (Alysson); set pieces: attack corners and free kicks, since Aston Villa win only 46% of aerial duels
+TRIGGERS fired: opponent formation 4-2-3-1 and style balanced passing; 1 missing; evenly matched; fatigue yes, heat no, importance normal; game state (decide for each side): if trailing, add a forward and push the full-backs; if leading, add a holder, drop the line and slow the game
+ROTATION: LIKELY (fatigue yes, 11 starters on 270+ minutes, next match not close); protect Alex Iwobi, Oscar Bobb, Josh King; rest the heavily used lower-impact starters first
+How to read it: (1) gap analysis: write the current state, the target state, the gap, the root ... (the full rule is in SKILL.md)
+
+# ABSENCES AND REPLACEMENTS
+Aston Villa: depth by position - defence: regulars 7.08 v cover 6.55 rating (cover is a drop of 0.53); midfield: regulars 6.93 v cover 7.26 rating (cover is comparable); attack: regulars 7.58 v cover 6.70 rating (cover is a drop of 0.88); goalkeeper: regulars 7.65 v cover 5.60 rating (cover is a drop of 2.05)
+Fulham: depth by position - defence: regulars 6.96 v cover 6.96 rating (cover is comparable); midfield: regulars 7.36 v cover 7.21 rating (cover is comparable); attack cover thin or unknown (2 fit with minutes); goalkeeper: regulars 7.10 v cover 7.40 rating (cover is comparable)
+Aston Villa: first-choice keeper Zion Suzuki (rating 7.65, 360 min) is available
+Fulham: first-choice keeper Bernd Leno (rating 7.10, 360 min) is available
+  Aston Villa: Amadou Onana (M, Cruciate Ligament Injury (out); 0 min, starts None, rating n/a, value 37.0m; a fringe player): little lost, the replacement is the existing squad
+  Aston Villa: Aaron Wan-Bissaka (D, Hamstring Injury (out); 167 min, starts 2, rating 7.15, value 14.1m; a fringe player): little lost, the replacement is the existing squad
+  Aston Villa: Matteo Ruggeri (D, Hamstring Injury (out); 0 min, starts None, rating n/a, value 27.0m; a fringe player): little lost, the replacement is the existing squad
+  Fulham: Ryan Sessegnon (D, red_card_suspension; 106 min, starts 1, rating 6.8, value 21.0m; a fringe player): little lost, the replacement is the existing squad
+How to read it: a missing regular matters only as far as his replacement is worse: a comparable ... (the full rule is in SKILL.md)
+
+# PHYSIOLOGY (players and teams: freshness, load, age, returns, travel, conditions)
+conditions at kickoff: Clear, 8.0°C; temp 8.0 C (feels like 8.0), humidity 89.0%, wind 1.0 km/h, rain chance 14.0%, precipitation 0.0 mm; weather matched to the kickoff hour: True; kickoff 20:00 local (approximate, from the venue's longitude); stadium capacity 37000
+travel: home side 0 km / 0.0 h, time-zone shift 0.0; away side 162 km / 2.0 h, time-zone shift 0.0
+
+## Aston Villa (home)
+  schedule: 3 days since the last match; 2 matches in the last 7 days, 4 in the last 14; rest before this match 3 days; fatigue flag {"multi_competition":true,"competitions":["EFL Cup","Premier League","UEFA Champions League","UEFA Super Cup","UEFA Europa League"],"avg_gap_days":3.5,"flagged":true}
+  rest performance (points per game on short and long rest): {"short_rest_ppg":1.6,"short_rest_sample_size":10,"long_rest_ppg":1.68,"long_rest_sample_size":19}
+  predicted XI ages: mean 26.1; oldest John McGinn 32 (M), youngest Alysson 20; goalkeeper age 24
+  squad average age 25.5; experience comparison {"own_average_age":26.2,"opponent_average_age":25.5,"more_experienced":"even"}
+  minutes load of the busiest players (recent window): Victor Lindelöf (D, age 32) 360 min in 4 matches, 4 starts; Zion Suzuki (G, age 24) 360 min in 5 matches, 4 starts; João Gomes (M, age 25) 331 min in 5 matches, 4 starts; Nicolas Jackson (F, age 25) 320 min in 4 matches, 4 starts; John McGinn (M, age 32) 311 min in 5 matches, 3 starts; Matty Cash (D, age 29) 290 min in 5 matches, 3 starts; Pau Torres (D, age 29) 283 min in 4 matches, 3 starts
+  injury and suspension returns: Aaron Wan-Bissaka: Hamstring Injury, expected back 2026-11-20 (AFTER this match); Amadou Onana: Cruciate Ligament Injury, expected back 2027-04-20 (AFTER this match); Matteo Ruggeri: Hamstring Injury, expected back 2026-12-20 (AFTER this match)
+
+## Fulham (away)
+  schedule: 3 days since the last match; 2 matches in the last 7 days, 3 in the last 14; rest before this match 3 days; fatigue flag {"multi_competition":true,"competitions":["EFL Cup","Premier League"],"avg_gap_days":5.5,"flagged":false}
+  rest performance (points per game on short and long rest): {"short_rest_ppg":1.67,"short_rest_sample_size":6,"long_rest_ppg":1.17,"long_rest_sample_size":23}
+  predicted XI ages: mean 26.2; oldest Bernd Leno 34 (G), youngest Josh King 19; goalkeeper age 34
+  squad average age 26.2; experience comparison {"own_average_age":26.2,"opponent_average_age":25.5,"more_experienced":"even"}
+  minutes load of the busiest players (recent window): Calvin Bassey (D, age 26) 450 min in 5 matches, 5 starts; Alex Iwobi (M, age 30) 394 min in 5 matches, 5 starts; Oscar Bobb (M, age 23) 388 min in 5 matches, 5 starts; Sander Berge (M, age 28) 374 min in 5 matches, 4 starts; Antonee Robinson (D, age 29) 360 min in 4 matches, 4 starts; David Affengruber (D, age 25) 360 min in 4 matches, 4 starts; Bernd Leno (G, age 34) 360 min in 5 matches, 4 starts
+  injury and suspension returns: Ryan Sessegnon: red_card_suspension, expected back 2026-10-31 (back by match day)
+
+How to read it: matches in 7 days and minutes piled on the same players mean fatigue and rotation; ... (the full rule is in SKILL.md)
+
+# DEEP DATA omitted

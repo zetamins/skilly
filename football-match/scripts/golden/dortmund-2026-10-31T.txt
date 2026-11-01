@@ -1,0 +1,557 @@
+# FC Bayern München (home label) v Borussia Dortmund (away label)
+competition: Bundesliga; kickoff 2026-10-31T17:30:00.000Z; status notstarted
+SIDE CHECK: squads and forms assigned by name: Borussia Dortmund -> away, FC Bayern München -> home
+venue country: Germany (home team's country Germany, away team's Germany); neutral flag None
+HOME EDGE: the home side gets the edge only when the venue is in ITS country; a venue in a third country is neutral; in the away team's country the edge goes to the away team.
+lineups confirmed: False
+LATE-NEWS WINDOW: kickoff 6 h after the scrape with lineups unconfirmed; late news can still change the picture, so confidence cannot be high
+
+## FC Bayern München (home)
+last results (newest first, this team's goals first):
+  2026-10-28 W 6-1 v 1. FC Magdeburg (home, DFB Pokal)
+  2026-10-25 W 3-1 v SC Freiburg (away, Bundesliga, xG 2.91-1.01)
+  2026-10-21 D 2-2 v Arsenal (home, UEFA Champions League, xG 2.33-1.69)
+  2026-10-17 W 6-1 v RB Leipzig (home, Bundesliga, xG 3.4-0.84)
+  2026-10-13 D 3-3 v Viking FK (away, UEFA Champions League, xG 3.29-0.72)
+  2026-10-10 D 2-2 v FC Augsburg (away, Bundesliga)
+  2026-09-18 W 7-0 v 1. FC Union Berlin (home, Bundesliga)
+  2026-09-13 W 2-1 v SV 07 Elversberg (away, Bundesliga)
+  2026-09-10 W 5-0 v Bodø/Glimt (home, UEFA Champions League)
+  2026-09-05 D 0-0 v FC Schalke 04 (away, Bundesliga)
+xG per game: for 3.20, against 0.93 over 10 games
+xG CONFLICT: the match rows below carry xG for 4 games (for 2.98, against 1.06) but the xG estimate above covers 10 games; the two sources disagree and which is right is unknown: the anchors use the estimate, so treat both as thin
+Elo: 1665.8 (source sofascore; 'eloratings.net' is a proper national-team rating, anything else is form-only: do NOT read a gap between two form-only numbers as class)
+squad market value: total 1052034999, attack 66500000, midfield 657100000, defence 304100000, goalkeeper 24334999
+table: position 1/18, 17 pts from 7 played, GD +19
+rotation between this side's LAST TWO matches (2026-10-25 to 2026-10-28; NOT today's XI, which is unknown until the lineups are out): changed 2 of 11 starters, formation 4-2-3-1 -> 4-2-3-1
+missing players (role and value shown when the report knows them):
+  - Bara Sapoko Ndiaye: Appendicitis, back 2026-11-20; role M, value 7400000
+  - Luis Díaz: Hamstring Injury, back 2026-11-30; role M, value 76000000
+  - Manuel Neuer: Foot Injury, back 2026-11-08; role G, value 4099999
+
+## Borussia Dortmund (away)
+last results (newest first, this team's goals first):
+  2026-10-27 W 3-2 v SV Werder Bremen (home, DFB Pokal)
+  2026-10-24 W 1-0 v Eintracht Frankfurt (home, Bundesliga, xG 1.48-0.85)
+  2026-10-20 W 2-1 v Sabah FK (away, UEFA Champions League, xG 3.73-1.49)
+  2026-10-17 D 0-0 v 1. FC Union Berlin (away, Bundesliga, xG 1.09-0.8)
+  2026-10-14 L 0-1 v Bodø/Glimt (away, UEFA Champions League, xG 0.79-1.11)
+  2026-10-09 D 2-2 v SV Werder Bremen (home, Bundesliga)
+  2026-09-19 W 1-0 v VfB Stuttgart (away, Bundesliga)
+  2026-09-12 W 3-0 v SC Paderborn 07 (home, Bundesliga)
+  2026-09-08 W 3-2 v Villarreal (home, UEFA Champions League)
+  2026-09-05 W 3-2 v TSG Hoffenheim (away, Bundesliga)
+xG per game: for 1.78, against 1.22 over 10 games
+xG CONFLICT: the match rows below carry xG for 4 games (for 1.77, against 1.06) but the xG estimate above covers 10 games; the two sources disagree and which is right is unknown: the anchors use the estimate, so treat both as thin
+Elo: 1606.9 (source sofascore; 'eloratings.net' is a proper national-team rating, anything else is form-only: do NOT read a gap between two form-only numbers as class)
+squad market value: total 582105000, attack 97200000, midfield 304915000, defence 138200000, goalkeeper 41790000
+table: position 2/18, 17 pts from 7 played, GD +8
+rotation between this side's LAST TWO matches (2026-10-24 to 2026-10-27; NOT today's XI, which is unknown until the lineups are out): changed 4 of 11 starters, formation 3-4-2-1 -> 3-4-2-1
+missing players (role and value shown when the report knows them):
+  - Giannis Konstantelias: Cruciate Ligament Injury, back 2027-05-31; role M, value 20000000
+  - Kauã Prates: Muscle Injury, back 2026-11-06; role D, value 10300000
+  - Emre Can: Cruciate Ligament Injury (out), back ?; role D, value 3200000
+
+no bookmaker odds in the report
+head to head (weak evidence): {'home_wins': 6, 'away_wins': 1, 'draws': 3, 'sample_size': 10}
+
+# KEY METRICS
+| metric | FC Bayern München (home) | Borussia Dortmund (away) |
+|---|---|---|
+| xG for per game | 3.20 (10 games) | 1.78 (10 games) |
+| xG against per game | 0.93 (10 games) | 1.22 (10 games) |
+| goals scored per game (only the games that carry the xG estimate) | 3.60 | 1.80 |
+| goals conceded per game (only the games that carry the xG estimate) | 1.10 | 1.00 |
+| goals minus xG for, per game (finishing luck) | 0.40 | 0.02 |
+| goals conceded minus xG against, per game (defensive luck: negative = lucky) | 0.17 | -0.22 |
+| shots for / against per game | 22.4 / 8.6 (10 games) | 13.9 / 12.0 (10 games) |
+| shots on target for / against per game | 9.5 / 2.9 | 4.8 / 3.9 |
+| big chances created / conceded per game | 5.10 / 1.00 (10 games) | 3.50 / 2.10 (10 games) |
+| big chances missed (own) / missed by opponents per game | 2.90 / 0.60 | 2.40 / 1.60 |
+| touches in the opposition box for / against per game | 42.8 / 19.0 (5 games) | 33.8 / 19.0 (5 games) |
+| crosses for / against per game | 3.2 / 3.4 | 6.0 / 3.8 |
+| aerial duels won % | 52% (81 of 155) | 50% (157 of 314) |
+| pass accuracy % / long-ball share % | 90.0% / 4.1% | 84.1% / 5.7% |
+| goalkeeper save % (a rate far from about 72% rarely lasts) | 63.3% (19 saves from 30 shots on target) | 75.0% (30 saves from 40 shots on target) |
+| corners for / against per game | 8.5 / 3.3 (10 games) | 7.0 / 4.6 (10 games) |
+| yellow / red cards per game | 0.86 / 0.0 | 2.14 / 0.14 |
+| points per game on short rest / long rest | 2.3 (10 games) / 2.42 (19 games) | 2.67 (6 games) / 1.83 (23 games) |
+| points per game v high-possession opponents / others | 1.0 (1 games) / 2.33 (9 games) | 3.0 (2 games) / 2.13 (8 games) |
+| clean sheets in the last N matches | 5 of 20 | 8 of 20 |
+| bench value / starting XI value | 243600000 / 640500000 (bench is 38% of the XI) | 168900000 / 365900000 (bench is 46% of the XI) |
+| last results: goals for / against per game (up to 6, shootout rows skipped) | 3.67 / 1.67 (6 games) | 1.33 / 1.00 (6 games) |
+| last results: points per game (up to 6) | 2.00 (6 games; newest first WWDWDD) | 1.83 (6 games; newest first WWWDLD) |
+Compare per-game figures, not totals, when the sample sizes differ; keep the two teams' numbers on their own side.
+
+# ROLE-BY-ROLE PROFILE
+| indicator | FC Bayern München (home) | Borussia Dortmund (away) |
+|---|---|---|
+| identity (rule: defence-first / attack-led / open / struggling / balanced) | attack-led | attack-led |
+| attack | attacking (creates 1.4+ xG a game) | attacking (creates 1.4+ xG a game) |
+| defence | solid (concedes under 1.2 xG a game) | average defence |
+| passing style | possession-based short passing | possession-based short passing |
+| midfield | dominates the middle (final-third entries x1.66 of the opponents') | dominates the middle (final-third entries x1.32 of the opponents') |
+| goalkeeper | quiet goalkeeper: the defence protects him (3.0 shots on target faced a game) | average goalkeeper workload |
+ATTACK xG for / non-penalty xG / shots in the box / big chances / box touches / xA, per game:
+  FC Bayern München: 3.20 / 2.10 / 13.60 / 5.10 / 42.80 / 2.06
+  Borussia Dortmund: 1.78 / 1.43 / 9.80 / 3.50 / 33.80 / 1.57
+DEFENCE xG against / shots against / tackles / interceptions / clearances / blocks / recoveries, per game:
+  FC Bayern München: 0.9 / 8.6 / 14.4 / 6.2 / 15.8 / 6.0 / 53.0
+  Borussia Dortmund: 1.2 / 12.0 / 14.2 / 9.6 / 23.0 / 2.0 / 51.8
+MIDFIELD possession % / passes / pass accuracy % / long-ball % / final-third entries for-against / field tilt %:
+  FC Bayern München: 58.4 / 665.8 / 90.0 / 4.1 / 68.0 / 41.0 / 62.4
+  Borussia Dortmund: 57.0 / 519.4 / 84.1 / 5.7 / 62.6 / 47.4 / 56.9
+GOALKEEPER saves / shots on target faced per game, save %:
+  FC Bayern München: 1.9 / 3.0 / 63.3
+  Borussia Dortmund: 3.0 / 4.0 / 75.0
+
+## FC Bayern München: the players by role (recent window; per 90 minutes; minimum 90 minutes)
+  attackers: Harry Kane (age 33) 329 min: xG 1.09/90, goals 4 vs xG 3.99, shots 4.4/90, rating 8.02 strong form
+  midfielders: Tom Bischof (age 21) 383 min: key passes 1.2/90, xA 0.16/90, tackles 2.6/90, rating 7.20 strong form; Michael Olise (age 24) 321 min: key passes 4.2/90, xA 0.61/90, tackles 0.6/90, rating 8.90 strong form; Lennart Karl (age 18) 274 min: key passes 2.0/90, xA 0.12/90, tackles 1.3/90, rating 6.64; Ismael Saibari (age 25) 269 min: key passes 1.7/90, xA 0.09/90, tackles 1.7/90, rating 6.86; Serge Gnabry (age 31) 205 min: key passes 1.8/90, xA 0.21/90, tackles 1.8/90, rating 6.93
+  defenders: Konrad Laimer (age 29) 397 min: tackles+interceptions 2.3/90, rating 6.68; Dayot Upamecano (age 28) 315 min: tackles+interceptions 4.6/90, rating 7.18; Nathaniel Brown (age 23) 306 min: tackles+interceptions 1.8/90, rating 6.90; Josip Stanišić (age 26) 286 min: tackles+interceptions 2.5/90, rating 6.94; Jonathan Tah (age 30) 270 min: tackles+interceptions 1.0/90, rating 7.05
+  goalkeeper: Jonas Urbig (age 23) 360 min, rating 6.90
+
+## Borussia Dortmund: the players by role (recent window; per 90 minutes; minimum 90 minutes)
+  attackers: Serhou Guirassy (age 30) 384 min: xG 0.81/90, goals 3 vs xG 3.46, shots 4.5/90, rating 6.88; Maximilian Beier (age 24) 264 min: xG 0.14/90, goals 1 vs xG 0.42, shots 1.7/90, rating 6.70; Fábio Silva (age 24) 256 min: xG 0.39/90, goals 0 vs xG 1.11, shots 2.1/90, rating 6.48 WEAK form: likely to underperform
+  midfielders: Julian Ryerson (age 28) 370 min: key passes 1.7/90, xA 0.30/90, tackles 1.2/90, rating 7.06; Felix Nmecha (age 26) 360 min: key passes 1.8/90, xA 0.29/90, tackles 0.8/90, rating 7.16; Daniel Svensson (age 24) 344 min: key passes 1.6/90, xA 0.29/90, tackles 0.5/90, rating 6.94; Joey Veerman (age 27) 311 min: key passes 2.6/90, xA 0.31/90, tackles 1.2/90, rating 7.58 strong form; Jobe Bellingham (age 21) 300 min: key passes 0.9/90, xA 0.10/90, tackles 1.8/90, rating 6.80
+  defenders: Waldemar Anton (age 30) 450 min: tackles+interceptions 6.2/90, rating 7.56 strong form; Nico Schlotterbeck (age 26) 360 min: tackles+interceptions 2.8/90, rating 7.68 strong form; Joane Gadou (age 19) 289 min: tackles+interceptions 2.5/90, rating 7.35 strong form; Ramy Bensebaini (age 31) 252 min: tackles+interceptions 2.9/90, rating 7.40 strong form
+  goalkeeper: Gregor Kobel (age 28) 450 min, rating 7.02
+
+How to read it: attackers are judged on xG per 90 and shots (goals far above xG are finishing ... (the full rule is in SKILL.md)
+
+# HEAD TO HEAD: HISTORY, MANAGERS, TACTICS
+History (all meetings the source records): FC Bayern München wins 6, draws 3, Borussia Dortmund wins 1 from 10 meetings; streaks: ["Wins (home): 3","No losses (home): 5","Without clean sheet (home): 6","Without clean sheet (away): 5","More than 2.5 goals (both): 8/10","Both teams scoring (...
+Manager of FC Bayern München: Vincent Kompany (Belgium, age 40), in charge since 2024-05-29; record at the club W93 D19 L12 (75.0% wins); v Borussia Dortmund: W1 D0 L0 in 1 games (the source's record only, likely incomplete: use the manager duel below and your own knowledge, labelled)
+Manager of Borussia Dortmund: Niko Kovač (Croatia, age 55), in charge since 2025-02-02; record at the club W52 D16 L18 (60.47% wins); v FC Bayern München: W0 D0 L2 in 2 games (the source's record only, likely incomplete: use the manager duel below and your own knowledge, labelled)
+Manager duel (the two managers' sides against each other): home manager wins 3, draws 1, away manager wins 0 from 4
+Expected formations: FC Bayern München 4-2-3-1, Borussia Dortmund 3-4-2-1
+Shape v shape: FC Bayern München 4-2-3-1 against Borussia Dortmund 3-4-2-1
+  Midfield bodies (wide midfielders and wing-backs in the midfield line included; the zones below split them): 5 v 6 -> Borussia Dortmund outnumber them by 1 in the middle
+  FC Bayern München's back line (4) v Borussia Dortmund's front line (1): 3 spare defender(s), the front line has little room to run at
+  Borussia Dortmund's back line (3) v FC Bayern München's front line (1): 2 spare defender(s), a comfortable cover
+  Back-five or wing-back shape: FC Bayern München no, Borussia Dortmund no (a back five usually gives up the ball, concedes width high up the pitch and counters; a back four with two holders keeps more of the ball)
+  Which shape is more dominant: Borussia Dortmund (more bodies in midfield and no fewer in attack)
+  FC Bayern München by zone: 2 a flank (full-back and winger), 2 central midfielders with 2 holding, 1 between the lines, 1 up front
+  Borussia Dortmund by zone: 1 a flank (a wing-back), 2 central midfielders with 2 holding, 2 between the lines, 1 up front
+  Where FC Bayern München is weak on paper: the centre of midfield (4 v 3)
+  Where Borussia Dortmund is weak on paper: the flanks: FC Bayern München has 2 a side against its 1, so FC Bayern München can go 2 v 1 out wide and get in behind its wing-backs
+  Shapes shift in play (a back five becomes a back three with the ball, a 4-3-3 defends as 4-5-1): treat the zones as the starting map; the tactical note and the evidence decide
+  Shape pairing 3-4-2-1 (home side) v 4-2-3-1 (away side) in past meetings: Borussia Dortmund 1-2 FC Bayern München, possession 39%-61%, xG None-None; Borussia Dortmund 2-3 FC Bayern München, possession 33%-67%, xG 1.05-2.06
+  2026-08-22 Borussia Dortmund 1-2 FC Bayern München (Supercup): formations 3-4-2-1 v 4-2-3-1; xG None-None; possession 39%-61%; referee Daniel Schlager
+  2026-02-28 Borussia Dortmund 2-3 FC Bayern München (Bundesliga): formations 3-4-2-1 v 4-2-3-1; xG 1.05-2.06; possession 33%-67%; referee Sven Jablonski
+  2025-10-18 FC Bayern München 2-1 Borussia Dortmund (Bundesliga): formations None v None; xG None-None; possession None-None; referee None
+Is the head to head still relevant (same tactical setup, same manager, comparable squads)?
+  2026-08-22 Borussia Dortmund 1-2 FC Bayern München (0.2 years ago): FC Bayern München: shape 4-2-3-1 then v 4-2-3-1 now (same); 6 of the same XI; manager already in charge; Borussia Dortmund: shape 3-4-2-1 then v 3-4-2-1 now (same); 8 of the same XI; manager already in charge; context then cup or knockout (Supercup) v now league or group (a different kind of match: counts for less) -> RELEVANT (similar setup and squad)
+  2026-02-28 Borussia Dortmund 2-3 FC Bayern München (0.7 years ago): FC Bayern München: shape 4-2-3-1 then v 4-2-3-1 now (same); 9 of the same XI; manager already in charge; Borussia Dortmund: shape 3-4-2-1 then v 3-4-2-1 now (same); 7 of the same XI; manager already in charge; context then league or group (Bundesliga) v now league or group -> RELEVANT (similar setup and squad)
+  2025-10-18 FC Bayern München 2-1 Borussia Dortmund (1.0 years ago): FC Bayern München: shape ? then v 4-2-3-1 now (different); ? of the same XI; manager already in charge; Borussia Dortmund: shape ? then v 3-4-2-1 now (different); ? of the same XI; manager already in charge; context then league or group (Bundesliga) v now league or group -> NOT RELEVANT (different setup and squad)
+How to read it: did the same formations meet before and who controlled it (possession, xG)? Does a ... (the full rule is in SKILL.md)
+
+# FORM WINDOWS: last 5 against last 10, and form inside the head to head
+FC Bayern München: last 3 (momentum) WWD (3 games, 2.33 points a game, goals 3.7-1.3 per game, xG 2.62-1.35 per game (2 with xG)); momentum (last 3 v last 10): +0.13 points a game (in line with the longer run)
+FC Bayern München: last 5 WWDWD (5 games, 2.20 points a game, goals 4.0-1.6 per game, xG 2.98-1.06 per game (4 with xG))
+FC Bayern München: last 10 (stability) WWDWDDWWWD (10 games, 2.20 points a game, goals 3.5-1.1 per game, xG 2.98-1.06 per game (4 with xG)); last 5 v the 5 before: +0.00 points a game (steady)
+Borussia Dortmund: last 3 (momentum) WWW (3 games, 3.00 points a game, goals 2.0-1.0 per game, xG 2.60-1.17 per game (2 with xG)); momentum (last 3 v last 10): +0.70 points a game (hot)
+Borussia Dortmund: last 5 WWWDL (5 games, 2.00 points a game, goals 1.2-0.8 per game, xG 1.77-1.06 per game (4 with xG))
+Borussia Dortmund: last 10 (stability) WWWDLDWWWW (10 games, 2.30 points a game, goals 1.8-1.0 per game, xG 1.77-1.06 per game (4 with xG)); last 5 v the 5 before: -0.60 points a game (declining)
+FC Bayern München in the head to head: W 2-1, W 3-2, W 2-1 (a hint only: few games, different squads)
+Borussia Dortmund in the head to head: L 1-2, L 2-3, L 1-2 (a hint only: few games, different squads)
+How to read it: last 5 against last 10 shows whether form is rising or fading; recent form counts ... (the full rule is in SKILL.md)
+
+# STRENGTH OF OPPOSITION, SIMILAR OPPONENTS AND THE REFEREE
+FC Bayern München: no opponent ratings (no ClubElo for the opponents and no national Elo file), so the opposition strength cannot be computed (judge it from the opponents' names)
+Borussia Dortmund: no opponent ratings (no ClubElo for the opponents and no national Elo file), so the opposition strength cannot be computed (judge it from the opponents' names)
+referee: Tobias Stieler; 449 games, 3.8 yellows and 21.07 fouls a game, 0.29 reds, penalties awarded unknown
+How to read it: weight the last 5 to 10 results by who they came against; a side that wins only ... (the full rule is in SKILL.md)
+
+# HOME GROUND: HOW HOSTILE IS IT FOR THE VISITORS
+Venue: Allianz Arena, Munich (Germany); capacity 75024; round/type competitive
+Venue split (only the most recent games whose venue the scraper confirmed, usually 5):
+FC Bayern München at home: 2.33 points a game in 3 games; away from home: 3.00 points a game in 1 games
+Borussia Dortmund away from home: 1.00 points a game in 1 games; at home: 3.00 points a game in 2 games
+From the result rows (last 20, by the fixture's home/away label, confirmed neutral grounds left out): FC Bayern München at home 2.45 points a game in 11 games; Borussia Dortmund away 1.75 points a game in 8 games. Quote this record when it has more games than the venue split; the two differ only in window.
+Venue swing: the home side's home record against the visitors' away record = +0.70 points a game (visitors travel well)
+FC Bayern München win rate in the venue split at home 67% (sample 3), away 100% (sample 1)
+Borussia Dortmund win rate in the venue split at home 100% (sample 2), away 0% (sample 1)
+FC Bayern München home games (3): xG 1.91-0.84, shots 20.333333333333332-11.666666666666666, possession 57.0%, fouls 12.333333333333334-6.0, yellows 1.0-1.6666666666666667, reds 0-0 (more fouls and cards for the visitors than against them = the crowd and referee leaning on them)
+Borussia Dortmund away games (1): xG 1.09-0.8, shots 10.0-11.0, possession 62.0%, fouls 13.0-13.0, yellows 3.0-3.0, reds 0-0 (more fouls and cards for the visitors than against them = the crowd and referee leaning on them)
+Trip for the visitors: 471 km, 2.6 h, time-zone shift 0.0 h; the home side travels 0 km
+Past meetings at this ground: 2025-10-18 FC Bayern München 2-1 Borussia Dortmund -> FC Bayern München here: W (1 of the listed meetings; a hint only)
+weather effects: no wind, rain or heat flag at kickoff. Pitch type, surface quality and altitude are not in the data: use your own knowledge and label it unverified.
+How to read it: a loud ground matters when the home side's home record is clearly better than its ... (the full rule is in SKILL.md)
+
+# SHRUNK xG
+FC Bayern München: raw 3.20 for / 0.93 against over 10 games -> shrunk 2.50 for / 1.09 against
+  composite (goals 3.50/1.75, xG 3.20/0.93 averaged, as the SPI model does, so no single noisy measure leads): 3.35 for / 1.34 against -> shrunk 2.15 / 1.35 over 4 games
+Borussia Dortmund: raw 1.78 for / 1.22 against over 10 games -> shrunk 1.62 for / 1.27 against
+  composite (goals 0.75/0.50, xG 1.78/1.22 averaged, as the SPI model does, so no single noisy measure leads): 1.26 for / 0.86 against -> shrunk 1.32 / 1.15 over 4 games
+  venue split (FC Bayern München in this venue, 11 games): 4.18 for / 1.00 against -> blended with the overall shrunk numbers: 3.59 / 1.03
+  venue split (Borussia Dortmund in this venue, 8 games): 2.38 for / 1.50 against -> blended with the overall shrunk numbers: 2.05 / 1.40
+xG anchor from the shrunk numbers: FC Bayern München (2.50 + 1.27) / 2 = 1.89; Borussia Dortmund (1.62 + 1.09) / 2 = 1.35. With the venue edge (home x1.10, away x0.91, from the fitted home advantage; off when the venue is outside the home team country): FC Bayern München 2.07, Borussia Dortmund 1.23  (the unblended overall anchor)
+VENUE-SPLIT xG anchor (2026-11-01: overall rates blend home and away games; a side is priced by its venue-blended numbers when 4+ venue games exist — PREFER THIS ONE when printed): FC Bayern München 2.74, Borussia Dortmund 1.40
+RATING ANCHOR (the class of the two clubs, StatsUltra+form 88.9 v 79.5, gap +9.4 — blended with current-season league form (n/(n+6) weight, capped at 50% of the gap); goal level 3.15 a match, the Bundesliga average 2019-25): FC Bayern München 2.12, Borussia Dortmund 1.17. This one counts class, which the xG anchor above lacks; on held-out 2026-27 matches it scored about the same as the bookmaker. START from it and move it ONLY for team news (a named absence or a confirmed lineup); form, luck, short samples, tactics and the xG anchor (the cross-check) do not move it.
+composite anchor (cross-check): FC Bayern München (2.15 + 1.15) / 2 = 1.65; Borussia Dortmund (1.32 + 1.35) / 2 = 1.33
+
+# DRAW EVIDENCE
+
+## FC Bayern München (last 10 games with a score)
+level finishes: 4 of 10 (4 = 1 goalless + 3 score draws); not won: 4 of 10; decided by one goal or less: 5 of 10; 2 goals or fewer in the game: 1 of 10
+scored 1 or fewer: 1 of 10; conceded 1 or fewer: 7 of 10; average goals in its games 4.70
+xG-tight games (xG within 0.5 either way): 0 of 4 with xG; of those 0 did NOT end level (decided by finishing, not chances)
+
+## Borussia Dortmund (last 10 games with a score)
+level finishes: 2 of 10 (2 = 1 goalless + 1 score draws); not won: 3 of 10; decided by one goal or less: 9 of 10; 2 goals or fewer in the game: 4 of 10
+scored 1 or fewer: 4 of 10; conceded 1 or fewer: 6 of 10; average goals in its games 2.80
+xG-tight games (xG within 0.5 either way): 2 of 4 with xG; of those 1 did NOT end level (decided by finishing, not chances)
+
+## the two sides together
+shrunk xG anchors on a NEUTRAL ground, no home edge (the goals and underdog slices add the home edge, so their pair differs): FC Bayern München 1.89, Borussia Dortmund 1.35; total 3.24; gap 0.53; a plain independent-goals model at these numbers gives a level finish 22.4% (reference only: the base rate is 23-25%)
+cross-links: FC Bayern München attack 2.50 meets Borussia Dortmund defence 1.27; Borussia Dortmund attack 1.62 meets FC Bayern München defence 1.09; mirror-image matchup if the two anchors are within 0.3 and both attacks are at or below the defences they face
+draw signals present from these numbers: none (0 of 5 checked)
+How to read it: these are counts over small samples, not probabilities. A level finish rate is ... (the full rule is in SKILL.md)
+
+# CONFIRMED LINEUPS: not checked
+
+# UNDERDOG EVIDENCE
+Favourite: FC Bayern München; underdog: Borussia Dortmund (shrunk xG anchors with the home edge 2.07-1.23; no Elo; the rating gap and the data decide this, not any price).
+
+## Borussia Dortmund (underdog) against FC Bayern München (favourite)
+Borussia Dortmund scored in 8 of 10 recent games (1.80 a game); when it scored its record is W7 D1 L0 (2.75 points a game)
+FC Bayern München kept a clean sheet in 3 of 10 recent games and conceded in 7
+IF THE UNDERDOG SCORES: FC Bayern München's games in which the opponent scored (n=7): W4 D3 L0 (2.14 points a game); games in which it did not (n=3): W2 D1 L0 (2.33 points a game). A favourite that still wins after conceding is robust; one that mostly draws or loses is the draw/upset route
+IF THE UNDERDOG SCORES FIRST (goal times from the match details, 5 of 10 games known): FC Bayern München conceded the first goal in 2: W0 D2 L0 (1.00 points a game) (came back to win 0, drew 2); Borussia Dortmund scored first in 3 of its 4 known games. This is the real version of calc.py's 'If the underdog scores first' line; under 5 games it is a lean
+FC Bayern München after half-time: trailing at the break (n=1) W1 D0 L0 (3.00 points a game); level at the break (n=1) W0 D1 L0 (1.00 points a game)
+defensive errors (the underdog's gift): errors leading to a shot against FC Bayern München 0.80 a game, to a goal 0.20 a game over 5 games; Borussia Dortmund's own errors lead to 0.20 shots against a game; defensive errors estimate: {"sample_size": 2, "defensive_errors_for": 3, "defensive_errors_against": 3}
+other weak spots and routes: duel vulnerabilities [{"name": "Konrad Laimer", "ground_duel_success_pct": 28.95}, {"name": "Josip Stani\u0161i\u0107", "ground_duel_success_pct": 31.58}, {"name": "Kim Min-jae", "ground_duel_success_pct": 45.45}]; full-back exposure [{"name": "Nathaniel Brown", "chances_created": 7, "ground_duel_success_pct": 50}]; Borussia Dortmund plays 5.7% long balls against opponent aerial wins 52.3%; set pieces: Borussia Dortmund 0.37 xG for a game v FC Bayern München 0.37 against = 0.37 expected; FC Bayern München goalkeeper saves 63.3% over 10 games
+CHANCES BUT NO GOALS (the favourite can win the chances and still not win): FC Bayern München missed 29 of 51 big chances (57%) over 10 games; FC Bayern München goals minus xG +0.40 a game; Borussia Dortmund goalkeeper saves 75.0% (about 72% is normal); at 2.07 expected goals FC Bayern München scores 1 or fewer in 39% of matches even when it creates what it should. Finishing and save rates mostly regress (about 10% of a finishing gap carries forward; a save rate far from 72% rarely lasts): read them as the size of the risk, not a sign it repeats
+expected goals for Borussia Dortmund from the shrunk anchor: 1.23; a plain independent-goals reading of the chance that it scores at least once is 71% (reference only: the calculator has the final numbers)
+How to read it: the underdog can score, and the favourite can still win. The questions are (1) does ... (the full rule is in SKILL.md)
+
+# UNDERDOG STRENGTH
+No clear underdog (class ratings within 40 points or missing, table close): nothing to assess.
+
+# GAME-STATE EVIDENCE
+
+## FC Bayern München
+half-time states (n=5 games with a usable half-time score; neutral venues skipped): leading 3 -> W2 D1 L0 (kept the lead to win in 2, dropped points in 1); level 1 -> W0 D1 L0; trailing 1 -> W1 D0 L0 (came back to win or draw in 1)
+the result changed between half-time and full time in 2 of 5 games
+second-half goals in those games: 12 for, 4 against (2.40 and 0.80 a game)
+goals by half over 20 games: scored 24 in the first half and 43 in the second; conceded 13 and 12
+bench and late goals (5 games with goal times; own goals left out): from the 76th minute on 2 scored and 3 conceded; substitutes scored 2 of its 20 goals in the 5 games with named substitutions. A side that scores late and from the bench keeps chasing a result; one that concedes late drops leads
+defence under pressure: errors leading to a shot against 0.80 a game, to a goal against 0.20 a game over 5 games; defensive errors estimate: {"sample_size": 2, "defensive_errors_for": 3, "defensive_errors_against": 3}
+expected shape 4-2-3-1 (4 at the back); last match 4-2-3-1 (4 defenders), the one before 4-2-3-1 (4). The report holds no per-game formation record, so how this side's defence has fared in a back three cannot be counted.
+
+## Borussia Dortmund
+half-time states (n=5 games with a usable half-time score; neutral venues skipped): leading 1 -> W1 D0 L0 (kept the lead to win in 1, dropped points in 0); level 4 -> W2 D1 L1; trailing 0 -> W0 D0 L0 (came back to win or draw in 0)
+the result changed between half-time and full time in 3 of 5 games
+second-half goals in those games: 3 for, 3 against (0.60 and 0.60 a game)
+goals by half over 20 games: scored 17 in the first half and 26 in the second; conceded 7 and 18
+bench and late goals (5 games with goal times; own goals left out): from the 76th minute on 2 scored and 0 conceded; substitutes scored 2 of its 6 goals in the 5 games with named substitutions. A side that scores late and from the bench keeps chasing a result; one that concedes late drops leads
+defence under pressure: errors leading to a shot against 0.20 a game, to a goal against 0.20 a game over 5 games
+expected shape 3-4-2-1 (3 at the back, a BACK THREE: more bodies forward and wide space behind the wing-backs when the ball is lost); last match 3-4-2-1 (3 defenders), the one before 3-4-2-1 (3). The report holds no per-game formation record, so how this side's defence has fared in a back three cannot be counted.
+
+## shapes against each other
+Shape v shape: FC Bayern München 4-2-3-1 against Borussia Dortmund 3-4-2-1
+  Midfield bodies (wide midfielders and wing-backs in the midfield line included; the zones below split them): 5 v 6 -> Borussia Dortmund outnumber them by 1 in the middle
+  FC Bayern München's back line (4) v Borussia Dortmund's front line (1): 3 spare defender(s), the front line has little room to run at
+  Borussia Dortmund's back line (3) v FC Bayern München's front line (1): 2 spare defender(s), a comfortable cover
+  Back-five or wing-back shape: FC Bayern München no, Borussia Dortmund no (a back five usually gives up the ball, concedes width high up the pitch and counters; a back four with two holders keeps more of the ball)
+  Which shape is more dominant: Borussia Dortmund (more bodies in midfield and no fewer in attack)
+  FC Bayern München by zone: 2 a flank (full-back and winger), 2 central midfielders with 2 holding, 1 between the lines, 1 up front
+  Borussia Dortmund by zone: 1 a flank (a wing-back), 2 central midfielders with 2 holding, 2 between the lines, 1 up front
+  Where FC Bayern München is weak on paper: the centre of midfield (4 v 3)
+  Where Borussia Dortmund is weak on paper: the flanks: FC Bayern München has 2 a side against its 1, so FC Bayern München can go 2 v 1 out wide and get in behind its wing-backs
+  Shapes shift in play (a back five becomes a back three with the ball, a 4-3-3 defends as 4-5-1): treat the zones as the starting map; the tactical note and the evidence decide
+
+## how the game may start (reference only)
+first-half goals expected from the shrunk anchors and each side's first-half share of its goals: FC Bayern München 0.66, Borussia Dortmund 0.56; a plain independent-goals reading gives FC Bayern München ahead at half-time 32%, level 41%, Borussia Dortmund ahead 26% (the calculator has the final numbers)
+
+Underdog (from the rating gap and the xG anchors, never from odds): Borussia Dortmund. Your job is the underdog's path to the LEAD: when and how it can score first and what it needs to keep or turn the lead. Do not argue for the favourite taking the lead; the price already holds that.
+How to read it: the leader protects the ball, the trailer attacks; take both from the half-time ... (the full rule is in SKILL.md)
+A side that keeps its leads wins the games it starts well; one that drops points from the lead, or comes back from behind, makes a match swing.
+When the trailer chases, its shape (a back three, wing-backs high) and its defensive errors decide whether the leader punishes it on the break; a strong defence that scores can turn the match round.
+Questions: who scores first, does the leader hold, does the trailer pull level, does the lead change hands?
+
+# GOALS EVIDENCE
+
+## FC Bayern München (last 10 games with a score)
+3 or more goals in the game: 9 of 10; 4 or more: 8; 2 or fewer: 1; 1 or fewer: 1; average goals in its games 4.70
+both teams scored: 7 of 10; this side kept a clean sheet: 3; failed to score: 1; scored 3.60 and conceded 1.10 a game
+chance totals (games with xG: 4): xG in its games averages 4.05, goals in the same games 5.25 (goals above the chances: totals may fall; below: they may rise)
+
+## Borussia Dortmund (last 10 games with a score)
+3 or more goals in the game: 6 of 10; 4 or more: 4; 2 or fewer: 4; 1 or fewer: 4; average goals in its games 2.80
+both teams scored: 5 of 10; this side kept a clean sheet: 4; failed to score: 2; scored 1.80 and conceded 1.00 a game
+chance totals (games with xG: 4): xG in its games averages 2.83, goals in the same games 1.25 (goals above the chances: totals may fall; below: they may rise)
+
+## the two sides together
+shrunk xG anchors WITH the home edge (the draw slice shows the neutral-ground pair): FC Bayern München 2.07, Borussia Dortmund 1.23; total 3.30; a plain independent-goals model at these numbers gives over 2.5 64.1% and both teams to score 61.9% (reference only: the calculator has the final numbers and a goals pick needs 60%)
+cross-links: FC Bayern München attack 2.50 meets Borussia Dortmund defence 1.27; Borussia Dortmund attack 1.62 meets FC Bayern München defence 1.09
+over signals present: expected goals total 3.30 is 2.8 or more; both sides' games reach 3 or more goals in 60% or more; under signals present: none
+How to read it: counts over small samples, not probabilities. Argue ONE direction (over 2.5, under ... (the full rule is in SKILL.md)
+
+# CASE EVIDENCE FOR FC BAYERN MÜNCHEN
+
+## FC Bayern München (last 10 games with a score)
+won 6, lost 0, 2.20 points a game; won by 2 or more 5 times; scored 2 or more in 9 of 10; failed to score in 1; kept a clean sheet in 3; conceded 2 or more in 3
+xG control (games with xG: 4): ahead by 0.5 xG or more in 4 and did not win 2 of those (chances not turned into wins: results may rise); behind by 0.5 or more in 0 and still won 0 (results ahead of the chances: may fall)
+
+## Borussia Dortmund, the opponent (last 10 games with a score)
+won 7, lost 1, 2.30 points a game; failed to score in 2; conceded 2 or more in 4 of 10 (the FC Bayern München attack can exploit this); kept a clean sheet in 4
+opponent xG control (games with xG: 4): behind by 0.5 xG or more in 0 and still won 0; ahead by 0.5 or more in 2 and did not win 0
+
+## the two sides together
+shrunk xG: FC Bayern München creates 2.50 and concedes 1.09; Borussia Dortmund creates 1.62 and concedes 1.27
+cross-links: FC Bayern München attack 2.50 meets Borussia Dortmund defence 1.27 (anchor 1.89); Borussia Dortmund attack 1.62 meets FC Bayern München defence 1.09 (anchor 1.35); anchor gap in FC Bayern München's favour +0.53
+case signals present from these numbers for FC Bayern München: the xG anchor gap is +0.53 for FC Bayern München (0.3 or more); FC Bayern München attack 2.50 is above the defence it meets 1.27; the opponent conceded 2 or more in 4 of 10; FC Bayern München out-chanced 2 opponent(s) without winning (results can rise) (4 found)
+How to read it: counts over small samples, not probabilities. Build the case from LINKS (this ... (the full rule is in SKILL.md)
+
+# CASE EVIDENCE FOR BORUSSIA DORTMUND
+
+## Borussia Dortmund (last 10 games with a score)
+won 7, lost 1, 2.30 points a game; won by 2 or more 1 times; scored 2 or more in 6 of 10; failed to score in 2; kept a clean sheet in 4; conceded 2 or more in 4
+xG control (games with xG: 4): ahead by 0.5 xG or more in 2 and did not win 0 of those (chances not turned into wins: results may rise); behind by 0.5 or more in 0 and still won 0 (results ahead of the chances: may fall)
+
+## FC Bayern München, the opponent (last 10 games with a score)
+won 6, lost 0, 2.20 points a game; failed to score in 1; conceded 2 or more in 3 of 10 (the Borussia Dortmund attack can exploit this); kept a clean sheet in 3
+opponent xG control (games with xG: 4): behind by 0.5 xG or more in 0 and still won 0; ahead by 0.5 or more in 4 and did not win 2
+
+## the two sides together
+shrunk xG: Borussia Dortmund creates 1.62 and concedes 1.27; FC Bayern München creates 2.50 and concedes 1.09
+cross-links: Borussia Dortmund attack 1.62 meets FC Bayern München defence 1.09 (anchor 1.35); FC Bayern München attack 2.50 meets Borussia Dortmund defence 1.27 (anchor 1.89); anchor gap in Borussia Dortmund's favour -0.53
+case signals present from these numbers for Borussia Dortmund: Borussia Dortmund attack 1.62 is above the defence it meets 1.09 (1 found)
+How to read it: counts over small samples, not probabilities. Build the case from LINKS (this ... (the full rule is in SKILL.md)
+
+# PLAYER RATINGS COMPARED
+| line | FC Bayern München (home) | Borussia Dortmund (away) | edge |
+|---|---|---|---|
+| goalkeeper | 6.82 | 7.02 | Borussia Dortmund +0.20 |
+| defenders | 6.92 | 7.52 | Borussia Dortmund +0.60 |
+| midfielders | 7.53 | 7.06 | FC Bayern München +0.47 |
+| attackers | 8.02 | 6.71 | FC Bayern München +1.31 |
+FC Bayern München: best rated Michael Olise 8.90, Joshua Kimmich 8.35, Harry Kane 8.02; weak form (under 6.6, likely to underperform): none
+Borussia Dortmund: best rated Nico Schlotterbeck 7.68, Joey Veerman 7.58, Waldemar Anton 7.56; weak form (under 6.6, likely to underperform): Fábio Silva 6.48
+How to read it: a line rated clearly higher than the opposing line has been playing better against ... (the full rule is in SKILL.md)
+
+# FLANKS
+FC Bayern München: crosses 3.2 for / 3.4 against per game; dribbles 7.0 / 8.8; shots outside the box 7.0 / 4.2; touches in the box 42.8 / 19.0; formation 4-2-3-1 (back four: full-backs)
+  FC Bayern München outfield regulars to place on a flank (left back, right back, left or right wing, centre): Konrad Laimer (D, 397 min, rating 6.68, KP 1.8/90, wide-back starts 3, centre-back starts 0); Dayot Upamecano (D, 315 min, rating 7.18, KP 0.3/90, wide-back starts 0, centre-back starts 3); Nathaniel Brown (D, 306 min, rating 6.9, KP 1.2/90, wide-back starts 4, centre-back starts 0); Josip Stanišić (D, 286 min, rating 6.94, KP 1.9/90, wide-back starts 3, centre-back starts 0); Tom Bischof (M, 383 min, rating 7.2, KP 1.2/90, wide-back starts 0, centre-back starts 0); Michael Olise (M, 321 min, rating 8.9, KP 4.2/90, wide-back starts 0, centre-back starts 0); Lennart Karl (M, 274 min, rating 6.64, KP 2.0/90, wide-back starts 0, centre-back starts 0); Ismael Saibari (M, 269 min, rating 6.86, KP 1.7/90, wide-back starts 0, centre-back starts 0); Harry Kane (F, 329 min, rating 8.02, KP 3.3/90, wide-back starts 0, centre-back starts 0)
+Borussia Dortmund: crosses 6.0 for / 3.8 against per game; dribbles 6.6 / 7.6; shots outside the box 4.4 / 4.8; touches in the box 33.8 / 19.0; formation 3-4-2-1
+  Borussia Dortmund outfield regulars to place on a flank (left back, right back, left or right wing, centre): Waldemar Anton (D, 450 min, rating 7.56, KP 0.2/90, wide-back starts 0, centre-back starts 5); Nico Schlotterbeck (D, 360 min, rating 7.68, KP 0.0/90, wide-back starts 0, centre-back starts 4); Joane Gadou (D, 289 min, rating 7.35, KP 0.6/90, wide-back starts 0, centre-back starts 3); Ramy Bensebaini (D, 252 min, rating 7.4, KP 0.7/90, wide-back starts 0, centre-back starts 3); Julian Ryerson (M, 370 min, rating 7.06, KP 1.7/90, wide-back starts 0, centre-back starts 0); Felix Nmecha (M, 360 min, rating 7.16, KP 1.8/90, wide-back starts 0, centre-back starts 0); Daniel Svensson (M, 344 min, rating 6.94, KP 1.6/90, wide-back starts 0, centre-back starts 0); Joey Veerman (M, 311 min, rating 7.58, KP 2.6/90, wide-back starts 0, centre-back starts 0); Serhou Guirassy (F, 384 min, rating 6.88, KP 1.2/90, wide-back starts 0, centre-back starts 0)
+Goals in the past meetings (who scored, to place the route): 2026-08-22 75' Fábio Silva (Borussia Dortmund, regular); 2026-08-22 45' Michael Olise (FC Bayern München, regular); 2026-08-22 28' Nathaniel Brown (FC Bayern München, regular); 2026-02-28 87' Joshua Kimmich (FC Bayern München, regular); 2026-02-28 83' Daniel Svensson (Borussia Dortmund, regular); 2026-02-28 70' Harry Kane (FC Bayern München, penalty); 2026-02-28 54' Harry Kane (FC Bayern München, regular); 2026-02-28 26' Nico Schlotterbeck (Borussia Dortmund, regular)
+How to read it: place each side's wide players on left and right from your knowledge, then compare ... (the full rule is in SKILL.md)
+
+# PSYCHOLOGY: HOW EACH SIDE REACTS WHEN LOSING, LEADING AND AFTER DEFEAT
+FC Bayern München: current streak 2W; losing-run context {"streak_count":0,"xg_delta":null,"potential_turnaround":null}; streak stability {"streak_result":"W","streak_count":2,"changed_players":2,"stable":true}
+  after a defeat (next-match results, newest first): D = 1.00 points a game (sample 1)
+  trailing at half time in 1 of 5 games with half-time scores: got something in 1, won 1; leading at half time in 3: dropped points in 1
+  half split (20 games): first half 24-13, second half 43-12 (a slow starter or a side that fades shows here)
+  resilience: {"non_win_sample_size":7,"draw_share_pct":86}; errors leading to a goal for/against 0/1; stakes: {"position":1,"total_teams":18,"zone":"top-of-table","points_from_boundary":4,"in_the_mix":true}
+Borussia Dortmund: current streak 3W; losing-run context {"streak_count":0,"xg_delta":null,"potential_turnaround":null}; streak stability {"streak_result":"W","streak_count":3,"changed_players":4,"stable":false}
+  after a defeat (next-match results, newest first): DWWWL = 2.00 points a game (sample 5)
+  trailing at half time in 0 of 5 games with half-time scores: got something in 0, won 0; leading at half time in 1: dropped points in 0
+  half split (20 games): first half 17-7, second half 26-18 (a slow starter or a side that fades shows here)
+  resilience: {"non_win_sample_size":8,"draw_share_pct":38}; errors leading to a goal for/against 0/1; stakes: {"position":2,"total_teams":18,"zone":"top-of-table","points_from_boundary":4,"in_the_mix":true}
+FC Bayern München - motivation quality: CHASING (a title or promotion race still open: it wants the result); emotional control proxy (discipline): 8 yellows and 1 reds in 5 games with venue data; record by competition: Bundesliga W7 D3 L0 (10); UEFA Champions League W1 D3 L1 (5); DFB Pokal W3 D0 L0 (3)
+Borussia Dortmund - motivation quality: CHASING (a title or promotion race still open: it wants the result); emotional control proxy (discipline): 7 yellows and 0 reds in 5 games with venue data; record by competition: Bundesliga W8 D2 L3 (13); UEFA Champions League W2 D0 L1 (3); DFB Pokal W2 D0 L0 (2)
+Not in the data (label your own knowledge, unverified): confidence, anxiety and focus as such, dressing-room cohesion, how the pre-match meeting is timed, crowd-pressure response in derbies and knockout ties, player-specific pressure response, routine disruption and emotional readiness. The proxies above are results after defeat, points rescued and dropped, a new manager, frozen-out players, discipline, a travel and rest load, and the record in similar competitions.
+How to read it: a side on a losing run usually tries to bounce back (more intensity, a changed XI), ... (the full rule is in SKILL.md)
+
+# GAPS BETWEEN MATCHES, FATIGUE AND UNDERPERFORMING (same reading for both sides)
+FC Bayern München: days between its last matches (newest first) [3, 4, 4, 4, 3, 22]; 3 days since the last match; matches in the last 7/14 days 2/4
+  on short rest (4 days or fewer after the previous match): 2.33 points a game in 6 games; on longer rest: 2.33 points a game in 3 games
+  results against chances, last 4 games with xG: scored +0.52 goals a game against its xG, conceded +0.69 against xG against  <-- OVERPERFORMING in attack (finishing above chances: expect regression)  <-- conceding MORE than the chances allowed (weak keeper or bad luck)
+  report's own short/long rest record: {"short_rest_ppg":2.3,"short_rest_sample_size":10,"long_rest_ppg":2.42,"long_rest_sample_size":19}
+Borussia Dortmund: days between its last matches (newest first) [3, 4, 3, 3, 5, 20]; 4 days since the last match; matches in the last 7/14 days 2/4
+  on short rest (4 days or fewer after the previous match): 2.67 points a game in 6 games; on longer rest: 1.33 points a game in 3 games
+  results against chances, last 4 games with xG: scored -1.02 goals a game against its xG, conceded -0.56 against xG against  <-- UNDERPERFORMING in attack (finishing below chances: expect a return to the xG level, not above it; only about 10% of a finishing gap carries into the next games and nothing is 'owed')  <-- conceding LESS than the chances allowed (keeper hot or lucky)
+  report's own short/long rest record: {"short_rest_ppg":2.67,"short_rest_sample_size":6,"long_rest_ppg":1.83,"long_rest_sample_size":23}
+FC Bayern München: matches after this one (the first listed is the NEXT match): Atlético Madrid on 2026-11-03 (3 days after the previous match); 1. FSV Mainz 05 on 2026-11-07 (4 days after the previous match); changed 2 of 11 starters between its last two matches (not today's XI)  <-- the next match comes within 4 days: rotation risk if it matters more
+Borussia Dortmund: matches after this one (the first listed is the NEXT match): Real Betis on 2026-11-04 (4 days after the previous match); SV 07 Elversberg on 2026-11-07 (3 days after the previous match); changed 4 of 11 starters between its last two matches (not today's XI)  <-- the next match comes within 4 days: rotation risk if it matters more
+Rotation logic: a manager benches or rests regulars when the NEXT match matters more than this one (a cup tie, a title or relegation decider, a knockout leg, a derby) especially with a short gap and a squad that has played heavy minutes, or when this match has little at stake (qualified, eliminated, a friendly). Judge from the report's stakes, the standings zone and the next fixtures above which match is the priority for EACH side; if you know a next fixture is crucial (labelled unverified), estimate how many starters change and which positions (usually the older, heavily used regulars and the goalkeeper only rarely), then discount that side's strength and say so. Never assume the full XI plays when rotation is plausible.
+How to read it: short gaps, three matches in 7 days and the same regulars playing every minute lead ... (the full rule is in SKILL.md)
+
+# BIG TEAM v SMALL TEAM: COMPLACENCY AND UPSET RISK
+Elo gap: not available; judge the gap from squad value, ratings and results
+How to read it: see the rule in the skill (complacency lens).
+
+# MANAGER'S PRE-MATCH CHECKLIST
+
+## FC Bayern München
+1 fitness and sharpness: predicted starters with little recent football (under 150 min in the window, rusty or just back): none; starters carrying a heavy load (270+ min): Jonas Urbig 360 min, Konrad Laimer 397 min, Dayot Upamecano 315 min, Jonathan Tah 270 min, Michael Olise 321 min, Harry Kane 329 min; matches in the last 7 days 2
+2 in form / struggling (average rating, predicted XI): in form Michael Olise 8.90, Joshua Kimmich 8.35, Harry Kane 8.02; struggling none under 6.6
+3 lineup fits the system: formation 4-2-3-1 needs D4 M5 F1; the predicted XI has D4 M5 F1 -> fits; defenders who have started wide before: 1
+4 morale and confidence (PROXIES only: the report has no dressing-room data): streak 2W; last 5 WWDWD; high-value players with little football (possibly frozen out or unhappy): Jamal Musiala; manager settled, in charge 885 days (the system has had that long to bed in); recent transfers [{"player_name":"Arijon Ibrahimović","direction":"out","from_club":"FC Bayern München","to_club":"FC Augsburg","date":"2...
+5 injuries, suspensions, rotation: 3 absent (see ABSENCES AND REPLACEMENTS); changed 2 starters between its last two matches, not today's XI (see the GAPS BETWEEN MATCHES section for the rotation logic)
+6 opponent (Borussia Dortmund): likely setup 3-4-2-1; its style, key players and weak areas are in the tactical note and the SCOUTING REPORT for Borussia Dortmund
+7 importance: standing 1/18 (top-of-table, 4 pts from the boundary); next match Atlético Madrid in 3 days
+8 bench and flexibility: bench listed D0 M0 F0 (not listed); healthy squad D10 M9 F2 (a back-three/back-four switch needs 5+ defenders, an extra striker 3+ forwards); reserves worth 73% of the regulars in market value
+
+## Borussia Dortmund
+1 fitness and sharpness: predicted starters with little recent football (under 150 min in the window, rusty or just back): Marcel Sabitzer 106 min; starters carrying a heavy load (270+ min): Gregor Kobel 450 min, Joane Gadou 289 min, Waldemar Anton 450 min, Nico Schlotterbeck 360 min, Julian Ryerson 370 min, Jobe Bellingham 300 min, Felix Nmecha 360 min, Daniel Svensson 344 min, Serhou Guirassy 384 min; matches in the last 7 days 2
+2 in form / struggling (average rating, predicted XI): in form Nico Schlotterbeck 7.68, Waldemar Anton 7.56, Joane Gadou 7.35; struggling none under 6.6
+3 lineup fits the system: formation 3-4-2-1 needs D3 M6 F1; the predicted XI has D3 M5 F2 -> MISMATCH on the report's position labels (wingers are often labelled midfielders, so check the names); defenders who have started wide before: 0
+4 morale and confidence (PROXIES only: the report has no dressing-room data): streak 3W; last 5 WWWDL; high-value players with little football (possibly frozen out or unhappy): Ethan Nwaneri; manager settled, in charge 636 days (the system has had that long to bed in); recent transfers [{"player_name":"Ethan Nwaneri","direction":"in","from_club":"Arsenal","to_club":"Borussia Dortmund","date":"2026-09-01T...
+5 injuries, suspensions, rotation: 3 absent (see ABSENCES AND REPLACEMENTS); changed 4 starters between its last two matches, not today's XI (see the GAPS BETWEEN MATCHES section for the rotation logic)
+6 opponent (FC Bayern München): likely setup 4-2-3-1; its style, key players and weak areas are in the tactical note and the SCOUTING REPORT for FC Bayern München
+7 importance: standing 2/18 (top-of-table, 4 pts from the boundary); next match Real Betis in 4 days
+8 bench and flexibility: bench listed D0 M0 F0 (not listed); healthy squad D6 M12 F4 (a back-three/back-four switch needs 5+ defenders, an extra striker 3+ forwards); reserves worth 58% of the regulars in market value
+How to read it: for each side say who is rusty, who is flying, whether the XI fits the shape, any ... (the full rule is in SKILL.md)
+
+# HOME v AWAY STYLE AND INTENSITY
+
+## FC Bayern München (playing home here)
+as home side: 3 games: possession 57%, shots 20.33-11.67, xG 1.91-0.84, fouls 12.33, yellows 1.00 a game; as away side: 1 games: possession 56%, shots 17.00-16.00, xG 2.91-1.01, fouls 11.00, yellows 1.00 a game; swing: possession +1 points, xG difference -0.83 (thin samples: a tendency only)
+running (overall, not by venue): 111 km, 115 sprints a game v opponents 111 km, 120; fouls and yellows are the venue proxy
+expected role here: default: takes the initiative, higher press, more possession; if it falls behind it tends to raise its tempo and intensity, if it leads it protects the lead
+
+## Borussia Dortmund (playing away here)
+as away side: 1 games: possession 62%, shots 10.00-11.00, xG 1.09-0.80, fouls 13.00, yellows 3.00 a game; as home side: 2 games: possession 58%, shots 15.00-10.00, xG 0.74-0.42, fouls 10.50, yellows 1.00 a game; swing: possession +4 points, xG difference -0.02 (thin samples: a tendency only)
+running (overall, not by venue): 110 km, 117 sprints a game v opponents 110 km, 114; fouls and yellows are the venue proxy
+expected role here: default: more cautious, compact, focused on transitions; needing a result (stakes) it may also press and chase the game; if it falls behind it tends to raise its tempo and intensity, if it leads it protects the lead
+How to read it: location changes initiative, pressing and caution (the crowd, the familiar pitch, ... (the full rule is in SKILL.md)
+
+# UNDERLYING STATS
+FC Bayern München: xPTS 9.5 v actual 8 points over 4 games with xG (-1.5: results match the underlying numbers)
+
+## FC Bayern München
+created: 3.20 xG, 22.40 shots, 13.60 in the box, 5.10 big chances, 0.14 xG per shot; conceded: 0.93 xG, 8.60 shots, 0.11 xG per shot
+luck against performance (last games with xG): goals 0.52 against xG scored, 0.69 against xG conceded; goalkeeper save 63% with 3.00 shots on target faced a game (1.90 saves)
+xG / xGA trend (are the results sustainable?): last 2 games xG 2.62 for / 1.35 against against the 2 before 3.34 / 0.78 (creating less, conceding more)
+set pieces: xG for 2.87 and against 1.84 over 5 games; corners 8.50 a game; opponent aerial win 50%; crosses 3.20 for / 3.40 against a game
+Borussia Dortmund: xPTS 6.9 v actual 7 points over 4 games with xG (+0.1: results match the underlying numbers)
+
+## Borussia Dortmund
+created: 1.78 xG, 13.90 shots, 9.80 in the box, 3.50 big chances, 0.13 xG per shot; conceded: 1.22 xG, 12.00 shots, 0.10 xG per shot
+luck against performance (last games with xG): goals -1.02 against xG scored, -0.56 against xG conceded; goalkeeper save 75% with 4.00 shots on target faced a game (3.00 saves)
+xG / xGA trend (are the results sustainable?): last 2 games xG 2.60 for / 1.17 against against the 2 before 0.94 / 0.96 (creating more, conceding the same)
+set pieces: xG for 1.87 and against 1.34 over 5 games; corners 7.00 a game; opponent aerial win 52%; crosses 6.00 for / 3.80 against a game
+FC Bayern München - scoring and concession profile: clean sheets 30%, failed to score 10%, both teams scored 70%, over 2.5 90%; timing: 37 goals in first halves (for + against) and 55 in second halves over 20 games; second-half goals for 43 against 12 (minute-level timing and final-15-minute figures are not in the data)
+Borussia Dortmund - scoring and concession profile: clean sheets 40%, failed to score 20%, both teams scored 50%, over 2.5 60%; timing: 24 goals in first halves (for + against) and 44 in second halves over 20 games - decided late; second-half goals for 26 against 18 (minute-level timing and final-15-minute figures are not in the data)
+
+SET-PIECE EDGE (a separate edge in tight games): FC Bayern München's set-piece xG for 0.57 v Borussia Dortmund's against 0.27 a game = 0.42 expected; Borussia Dortmund's for 0.37 v FC Bayern München's against 0.37 = 0.37; edge none (level) (0.05 xG a game)
+FC Bayern München - location and quality: 66% of its shots from inside the box (64% of those it concedes); xA 2.06 for / 0.81 against a game (chance-creation quality); turnovers (times dispossessed) 8.80 a game v 8.00 forced on opponents (press resistance proxy); errors leading to a shot 0.40 / against 0.80, to a goal 0.00 / against 0.20 a game; territory: field tilt 62%, final-third entries 68 v 41 a game, touches in the box 43 v 19
+Borussia Dortmund - location and quality: 69% of its shots from inside the box (56% of those it concedes); xA 1.57 for / 0.56 against a game (chance-creation quality); turnovers (times dispossessed) 8.00 a game v 5.60 forced on opponents (press resistance proxy); errors leading to a shot 0.60 / against 0.20, to a goal 0.00 / against 0.20 a game; territory: field tilt 57%, final-third entries 63 v 47 a game, touches in the box 34 v 19
+How to read it: compare created against conceded for both sides, shot quality (xG per shot) not ... (the full rule is in SKILL.md)
+
+# MATCH-STAT PROFILE
+FC Bayern München: attack 9.5 shots on target a game (42% of its shots on target, 0.38 goals per shot on target, about 0.30 is normal); defence 2.9 shots on target conceded a game (opponents hit the target with 34%); box 66% of its shots from inside the box, 64% of shots against from inside the box (5 games); keeper 1.9 saves a game, 63.3% saved (many saves = the defenders let shots through; about 72% is normal); ball possession 58%, pass accuracy 90%, long balls 4%; corners 8.5 won / 3.3 conceded a game (72% share); fouls 9.9 committed / 8.0 suffered a game, 0.86 yellows a game
+Borussia Dortmund: attack 4.8 shots on target a game (35% of its shots on target, 0.38 goals per shot on target, about 0.30 is normal); defence 3.9 shots on target conceded a game (opponents hit the target with 32%); box 69% of its shots from inside the box, 56% of shots against from inside the box (5 games); keeper 3.0 saves a game, 75.0% saved (many saves = the defenders let shots through; about 72% is normal); ball possession 55%, pass accuracy 84%, long balls 6%; corners 7.0 won / 4.6 conceded a game (60% share); fouls 11.5 committed / 9.7 suffered a game, 2.14 yellows a game
+links: FC Bayern München attack 9.5 shots on target a game meets Borussia Dortmund conceding 3.9: about 6.7 expected; Borussia Dortmund attack 4.8 shots on target a game meets FC Bayern München conceding 2.9: about 3.8 expected; FC Bayern München is about average at keeping shots out of its box (64% of shots against from inside the box; about 60% is typical); Borussia Dortmund is about average at keeping shots out of its box (56% of shots against from inside the box; about 60% is typical); possession 58% v 55%: both like the ball, so one must give it up; corners expected 6.5 for FC Bayern München and 5.2 for Borussia Dortmund: the side with more corners usually has the territory and the pressure; FC Bayern München commits 1.24 fouls for every foul it suffers: it stops attacks by fouling (it struggles to contain), which gives free kicks near its goal and cards; Borussia Dortmund commits 1.19 fouls for every foul it suffers: it stops attacks by fouling (it struggles to contain), which gives free kicks near its goal and cards
+How to read it: shots on target show how efficient an attack is and how much a defence gives up; ... (the full rule is in SKILL.md)
+
+# SUBSTITUTION PATTERNS
+
+## FC Bayern München
+most used as substitutes (sub appearances / starts): Alphonso Davies (D) 3/1, 48 min an appearance; Sacha Boey (D) 3/0, 21 min an appearance; Hiroki Itō (D) 2/1, 38 min an appearance; Ismael Saibari (M) 2/3, 54 min an appearance
+starters usually taken off early (under 75 minutes an appearance, 2+ starts): Serge Gnabry (M) 51 min over 4 games; Ismael Saibari (M) 54 min over 5 games; Lennart Karl (M) 55 min over 5 games; Aleksandar Pavlović (M) 57 min over 3 games
+bench contribution (goals+assists by players who mostly come on): Alphonso Davies 3 (xG+xA 0.29/90); David Daiber 1 (xG+xA 0.00/90); unused bench places by player show the manager's rotation limits: Tim Binder 2, Sacha Boey 2, Hiroki Itō 2
+timing and scoreline (only the 2 past meetings with a timeline: a thin sample): late (76+) 5, around 60-75 2; score when the changes were made: leading 6, level 1
+
+## Borussia Dortmund
+most used as substitutes (sub appearances / starts): Ethan Nwaneri (M) 4/1, 27 min an appearance; Carney Chukwuemeka (M) 2/2, 44 min an appearance; Fábio Silva (F) 2/3, 51 min an appearance; Joane Gadou (D) 2/3, 58 min an appearance
+starters usually taken off early (under 75 minutes an appearance, 2+ starts): Carney Chukwuemeka (M) 44 min over 4 games; Fábio Silva (F) 51 min over 5 games; Maximilian Beier (F) 53 min over 5 games; Joane Gadou (D) 58 min over 5 games
+bench contribution (goals+assists by players who mostly come on): Marcel Sabitzer 1 (xG+xA 0.08/90); Carney Chukwuemeka 1 (xG+xA 0.52/90); unused bench places by player show the manager's rotation limits: Mathis Albert 3, Samuele Inacio 3, Marcel Sabitzer 2
+timing and scoreline (only the 2 past meetings with a timeline: a thin sample): around 60-75 8, half-time (45-46) 2; score when the changes were made: trailing 8, level 1, leading 1
+How to read it: the players used most as substitutes and those taken off early show the rotation ... (the full rule is in SKILL.md)
+
+# SCOUTING REPORT
+
+## FC Bayern München
+1 shape: in possession 4-2-3-1 with the full-backs/wing-backs high; out of possession 4-2-3-1 (a mid-block, inferred); possession 58.40% and field tilt 62.40%
+2 build-up, creation and defending: possession-based short passing; attacking (creates 1.4+ xG a game); solid (concedes under 1.2 xG a game) (numbers under CURRENT STATE below)
+3 key players and where they are dangerous: Harry Kane (F, rating 8.02, xG+xA 1.41/90); Michael Olise (M, rating 8.9, xG+xA 1.10/90); Joshua Kimmich (M, rating 8.35, xG+xA 0.89/90) (position labels only: the report has no shot locations or heat maps)
+4 set pieces: set-piece xG for 2.87 and against 1.84 over 5 games; corners 8.50 a game (corner goals for/against 2/1); opponent wins 50% of aerial duels; the routines themselves (short, near-post, outswinger) are NOT in the data: say so or label your own knowledge
+5 pressing, defensive line and transitions (proxies): pressing high (tackles+interceptions 20.60 and recoveries 53.00 a game); line height medium (catches 1.80 opponents offside a game); transitions: 8.60 shots against a game and 0.93 xG against
+6 weak areas to attack: none visible in the data
+
+## Borussia Dortmund
+1 shape: in possession 3-4-2-1; out of possession 3-4-2-1 (a mid-block, inferred); possession 57.00% and field tilt 56.90%
+2 build-up, creation and defending: possession-based short passing; attacking (creates 1.4+ xG a game); average defence (numbers under CURRENT STATE below)
+3 key players and where they are dangerous: Serhou Guirassy (F, rating 6.88, xG+xA 0.87/90); Waldemar Anton (D, rating 7.56, tackles+interceptions 6.2/90); Joey Veerman (M, rating 7.58, xG+xA 0.38/90) (position labels only: the report has no shot locations or heat maps)
+4 set pieces: set-piece xG for 1.87 and against 1.34 over 5 games; corners 7.00 a game (corner goals for/against 0/0); opponent wins 52% of aerial duels; the routines themselves (short, near-post, outswinger) are NOT in the data: say so or label your own knowledge
+5 pressing, defensive line and transitions (proxies): pressing high (tackles+interceptions 23.80 and recoveries 51.80 a game); line height medium (catches 1.60 opponents offside a game); transitions: 12.00 shots against a game and 1.22 xG against
+6 weak areas to attack: space behind the full-backs (only 0 natural wide defenders fit)
+How to read it: for each side say its shape in and out of possession, how it builds, creates and ... (the full rule is in SKILL.md)
+
+# PRESS v BUILD-UP
+No clash: neither side combines a heavy press (24+ tackles+interceptions a game) with an opponent that builds very short (long balls 4.5% or less, pass accuracy 87%+).
+How to read it: the press-v-build-up route widens the underdog's and the draw's tail (an early goal ... (the full rule is in SKILL.md)
+
+# ERROR-PRONE PLAYERS
+FC Bayern München: no player with an error leading to a goal, or 2+ to a shot (23 players with statistics); CHECK: the team totals show 1 error(s) leading to a goal against, so the player figures look incomplete: do not read this as an error-free defence
+Borussia Dortmund: Felix Nmecha (M): 0 leading to a goal, 2 to a shot in 5 appearances (360 min)
+How to read it: a starter who gave away goals by error is a live route for the other side (press ... (the full rule is in SKILL.md)
+
+# CHAOS EVIDENCE
+errors leading to a goal against, a game: FC Bayern München 0.20 (n=5); Borussia Dortmund 0.20 (n=5)
+errors leading to a shot against, a game: FC Bayern München 0.80 (n=5); Borussia Dortmund 0.20 (n=5) -> FC Bayern München more exposed
+big chances missed, a game (finishing that can go cold): FC Bayern München 2.90 (n=10); Borussia Dortmund 2.40 (n=10) -> FC Bayern München more exposed
+fouls committed, a game (free kicks and penalties given away): FC Bayern München 9.90 (n=10); Borussia Dortmund 11.50 (n=10) -> Borussia Dortmund more exposed
+penalties conceded, a game (a converted one is close to a certain goal): FC Bayern München 0.00 (n=5); Borussia Dortmund 0.20 (n=5) -> Borussia Dortmund more exposed
+keeper save % (about 70% is normal; far below it can bounce back or keep leaking, far above it can run out): FC Bayern München 63.3% (n=10); Borussia Dortmund 75.0% (n=10) -> FC Bayern München more exposed (the lower save rate)
+set pieces: FC Bayern München set-piece xG 0.57 for / 0.37 against a game; Borussia Dortmund set-piece xG 0.37 for / 0.27 against a game
+cards a game, overall: FC Bayern München 0.86 yellow, 0.00 red; Borussia Dortmund 2.14 yellow, 0.14 red
+cards a game, at THIS fixture's venue for each side (FC Bayern München home, Borussia Dortmund away): FC Bayern München 0.80 yellow, 0.00 red (n=5); Borussia Dortmund 2.40 yellow, 0.00 red (n=5)
+referee card risk: Tobias Stieler averages 3.8 yellows a game
+RED-CARD RISK INDEX (fragility input, not a priced market): a red card is a ~13% proposition this match (~8-10% (LOW) — referee Tobias Stieler 3.8 YC/g (x0.95); home cards 0.86 YC/g (x0.79^0.5); away cards 2.14 YC/g (x1.21^0.5))
+EXPOSURE TALLY (factors where one side is worse, out of the comparable ones above): FC Bayern München 3, Borussia Dortmund 2
+how close the forecast is: rating-anchor expected goals 2.12-1.17, gap 0.94 (a clear favourite: chaos must be large to overturn it)
+How to read it: these factors decided Villa 2-1 City, Palace 0-2 Newcastle and Hull 1-1 Brentford ... (the full rule is in SKILL.md)
+
+# TACTICAL ADJUSTMENTS, GAP ANALYSIS AND ROTATION
+
+## FC Bayern München
+CURRENT STATE: build-up possession-based short passing (pass accuracy 90.00%, long balls 4.10%); pressing PROXY (no pressing data in the report) high activity (tackles+interceptions 20.60 and recoveries 53.00 a game); chance creation attacking (creates 1.4+ xG a game) (3.20 xG, 13.60 shots in the box a game; shot quality 0.14 xG per shot created, 0.11 conceded); defending transitions solid (concedes under 1.2 xG a game) (0.93 xG and 8.60 shots against a game); midfield dominates the middle (final-third entries x1.66 of the opponents')
+TARGET STATE: progress under Borussia Dortmund's possession game and protect the transition behind the ball
+GAP: no clear gap on these indicators
+ROOT CAUSE candidates: fatigue (2 matches in 7 days, 6 starters on 270+ minutes); missing players (Luis Díaz, Bara Sapoko Ndiaye, Manuel Neuer)
+ADJUSTMENTS: formation: from 4-2-3-1 go to a five-man midfield or an extra holder; pressing intensity: press lower and save legs; defensive line: normal height; midfield balance: add an extra holding midfielder; attacking width: wingers narrower to crowd the middle; build-up: go more direct to bypass the press; marking plan: target Borussia Dortmund's key player (Serhou Guirassy); set pieces: standard routines
+TRIGGERS fired: opponent formation 3-4-2-1 and style possession-based short passing; 3 missing; evenly matched; fatigue yes, heat no, importance high; game state (decide for each side): if trailing, add a forward and push the full-backs; if leading, add a holder, drop the line and slow the game
+ROTATION: LIKELY (fatigue yes, 6 starters on 270+ minutes, next match within 4 days); protect Harry Kane, Michael Olise, Joshua Kimmich; rest the heavily used lower-impact starters first
+
+## Borussia Dortmund
+CURRENT STATE: build-up possession-based short passing (pass accuracy 84.10%, long balls 5.70%); pressing PROXY (no pressing data in the report) high activity (tackles+interceptions 23.80 and recoveries 51.80 a game); chance creation attacking (creates 1.4+ xG a game) (1.78 xG, 9.80 shots in the box a game; shot quality 0.13 xG per shot created, 0.10 conceded); defending transitions average defence (1.22 xG and 12.00 shots against a game); midfield dominates the middle (final-third entries x1.32 of the opponents')
+TARGET STATE: progress under FC Bayern München's possession game and protect the transition behind the ball
+GAP: no clear gap on these indicators
+ROOT CAUSE candidates: too few natural full-backs (0 healthy defenders have started wide); fatigue (2 matches in 7 days, 9 starters on 270+ minutes); lineup does not match the formation by position labels (player fit or spacing); missing players (Giannis Konstantelias, Emre Can, Kauã Prates); players in poor form (Fábio Silva)
+ADJUSTMENTS: formation: from 3-4-2-1 go to a five-man midfield or an extra holder (and a back three if full-backs are short); pressing intensity: press lower and save legs; defensive line: normal height; midfield balance: add an extra holding midfielder; attacking width: wingers narrower to crowd the middle; build-up: go more direct to bypass the press; marking plan: target FC Bayern München's key player (Harry Kane); set pieces: standard routines
+TRIGGERS fired: opponent formation 4-2-3-1 and style possession-based short passing; 3 missing; evenly matched; fatigue yes, heat no, importance high; game state (decide for each side): if trailing, add a forward and push the full-backs; if leading, add a holder, drop the line and slow the game
+ROTATION: LIKELY (fatigue yes, 9 starters on 270+ minutes, next match within 4 days); protect Serhou Guirassy, Waldemar Anton, Joey Veerman; rest the heavily used lower-impact starters first
+How to read it: (1) gap analysis: write the current state, the target state, the gap, the root ... (the full rule is in SKILL.md)
+
+# ABSENCES AND REPLACEMENTS
+FC Bayern München: depth by position - defence: regulars 6.92 v cover 6.84 rating (cover is comparable); midfield: regulars 7.58 v cover 6.89 rating (cover is a drop of 0.69); attack cover thin or unknown (2 fit with minutes); goalkeeper cover thin or unknown (1 fit with minutes)
+Borussia Dortmund: depth by position - defence cover thin or unknown (4 fit with minutes); midfield: regulars 7.05 v cover 7.19 rating (cover is comparable); attack: regulars 6.79 v cover 6.59 rating (cover is comparable); goalkeeper cover thin or unknown (1 fit with minutes)
+FC Bayern München: first-choice keeper Jonas Urbig (rating 6.90, 360 min) is available
+Borussia Dortmund: first-choice keeper Gregor Kobel (rating 7.02, 450 min) is available
+  FC Bayern München: Luis Díaz (M, Hamstring Injury (out); 187 min, starts 2, rating 7.77, value 76.0m; a fringe player): little lost, the replacement is the existing squad
+  FC Bayern München: Bara Sapoko Ndiaye (M, Appendicitis (out); 1 min, starts 0, rating n/a, value 7.4m; a fringe player): little lost, the replacement is the existing squad
+  FC Bayern München: Manuel Neuer (G, Foot Injury (out); 90 min, starts 1, rating 6.5, value 4.1m; a fringe player): little lost, the replacement is the existing squad
+  Borussia Dortmund: Giannis Konstantelias (M, Cruciate Ligament Injury (out); 0 min, starts None, rating n/a, value 20.0m; a fringe player): little lost, the replacement is the existing squad
+  Borussia Dortmund: Emre Can (D, Cruciate Ligament Injury (out); 0 min, starts None, rating n/a, value 3.2m; a fringe player): little lost, the replacement is the existing squad
+  Borussia Dortmund: Kauã Prates (D, Muscle Injury (out); 0 min, starts 0, rating n/a, value 10.3m; a fringe player): little lost, the replacement is the existing squad
+How to read it: a missing regular matters only as far as his replacement is worse: a comparable ... (the full rule is in SKILL.md)
+
+# PHYSIOLOGY (players and teams: freshness, load, age, returns, travel, conditions)
+conditions at kickoff: Overcast, 8.0°C; temp 8.0 C (feels like 6.0), humidity 68.0%, wind 9.0 km/h, rain chance 18.0%, precipitation 0.0 mm; weather matched to the kickoff hour: True; kickoff 18:00 local (approximate, from the venue's longitude); stadium capacity 75024
+travel: home side 0 km / 0.0 h, time-zone shift 0.0; away side 471 km / 2.6 h, time-zone shift 0.0
+
+## FC Bayern München (home)
+  schedule: 3 days since the last match; 2 matches in the last 7 days, 4 in the last 14; rest before this match 3 days; fatigue flag {"multi_competition":true,"competitions":["DFB Pokal","Bundesliga","UEFA Champions League","Supercup","Telekom Cup"],"avg_gap_days":3.5,"flagged":true}
+  rest performance (points per game on short and long rest): {"short_rest_ppg":2.3,"short_rest_sample_size":10,"long_rest_ppg":2.42,"long_rest_sample_size":19}
+  predicted XI ages: mean 27.4; oldest Harry Kane 33 (F), youngest Aleksandar Pavlović 22; goalkeeper age 23
+  squad average age 25.7; experience comparison {"own_average_age":24.3,"opponent_average_age":25.7,"more_experienced":"even"}
+  minutes load of the busiest players (recent window): Konrad Laimer (D, age 29) 397 min in 5 matches, 5 starts; Tom Bischof (M, age 21) 383 min in 5 matches, 4 starts; Jonas Urbig (G, age 23) 360 min in 5 matches, 4 starts; Harry Kane (F, age 33) 329 min in 5 matches, 4 starts; Michael Olise (M, age 24) 321 min in 4 matches, 4 starts; Dayot Upamecano (D, age 28) 315 min in 5 matches, 3 starts; Nathaniel Brown (D, age 23) 306 min in 5 matches, 4 starts
+  injury and suspension returns: Bara Sapoko Ndiaye: Appendicitis, expected back 2026-11-20 (AFTER this match); Luis Díaz: Hamstring Injury, expected back 2026-11-30 (AFTER this match); Manuel Neuer: Foot Injury, expected back 2026-11-08 (AFTER this match)
+
+## Borussia Dortmund (away)
+  schedule: 4 days since the last match; 2 matches in the last 7 days, 4 in the last 14; rest before this match 4 days; fatigue flag {"multi_competition":true,"competitions":["DFB Pokal","Bundesliga","UEFA Champions League","Supercup","Emirates Cup"],"avg_gap_days":3.5,"flagged":true}
+  rest performance (points per game on short and long rest): {"short_rest_ppg":2.67,"short_rest_sample_size":6,"long_rest_ppg":1.83,"long_rest_sample_size":23}
+  predicted XI ages: mean 26.2; oldest Marcel Sabitzer 32 (M), youngest Joane Gadou 19; goalkeeper age 28
+  squad average age 24.3; experience comparison {"own_average_age":24.3,"opponent_average_age":25.7,"more_experienced":"even"}
+  minutes load of the busiest players (recent window): Waldemar Anton (D, age 30) 450 min in 5 matches, 5 starts; Gregor Kobel (G, age 28) 450 min in 5 matches, 5 starts; Serhou Guirassy (F, age 30) 384 min in 5 matches, 4 starts; Julian Ryerson (M, age 28) 370 min in 5 matches, 4 starts; Felix Nmecha (M, age 26) 360 min in 5 matches, 4 starts; Nico Schlotterbeck (D, age 26) 360 min in 4 matches, 4 starts; Daniel Svensson (M, age 24) 344 min in 5 matches, 4 starts
+  injury and suspension returns: Giannis Konstantelias: Cruciate Ligament Injury, expected back 2027-05-31 (AFTER this match); Kauã Prates: Muscle Injury, expected back 2026-11-06 (AFTER this match)
+
+How to read it: matches in 7 days and minutes piled on the same players mean fatigue and rotation; ... (the full rule is in SKILL.md)
+
+# DEEP DATA omitted
