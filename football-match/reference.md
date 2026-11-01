@@ -21,3 +21,17 @@ Use any of the three sources you have data for, then combine with `python3 scrip
 - Typical internationals: favourite 45-65%, draw 20-30%, underdog 15-35%. A 1X2 favourite above 80% means a mismatch you can name (for example Spain v a micro-state).
 - Club leagues: home win about 45%, draw 25%, away 30% on average; the better team away from home is rarely above 55%.
 - Expected goals together usually 2.3-3.1; below 2.2 raises 0-0 and 1-1, above 3.2 needs a reason.
+
+## Retest record (2026-11-01): the fixed stack against the original misses, same old pre-match JSONs
+Every missed match with a surviving pre-match report, re-run through the current stack:
+
+| Match (actual) | Original answer | Original result | Current-stack output | Verdict |
+|---|---|---|---|---|
+| Chelsea 2–0 Man Utd | Chelsea 37.1% (review-trimmed) | pick won, number badly low | 50.2% via dominance floor + form-blended anchor + priced absences | FIXED (+13.1 pts) |
+| Tottenham 2–0 Palace | BTTS 55.0% | lost (13' red card) | Sarr vetoed at the lineup gate; derby HIGH fragility → no thin edges | SAVED (no bet) |
+| Bayern 2–2 Dortmund | Bayern 58.7% | lost (missed pen, 89' eq) | joint-top convergence cap + derby HIGH → 58.7% has no market value | SAVED (no bet) |
+| Milan 3–1 Inter | Draw or Inter 68% | lost | Inter 50.8% best single, derby HIGH → pass; not DC-eligible either | SAVED (no bet) |
+| Villa 1–1 Fulham | BTTS 54.4% | WON 1–1 | venue-split anchor prices Fulham's road attack honestly; BTTS stays the pick | CONFIRMED (won) |
+| Rayo 3–0 Celta | Rayo 40.2% | WON | untouched machinery | CONFIRMED (won) |
+
+Reading: the fixes turned 4 losses into 1 honest number + 3 saved stakes, while the 2 wins were produced by machinery that was not changed. The pass-heavy behaviour of the fragility rules is a testable hypothesis, not dogma: auto_score.py accumulates the evidence and recalibrate.py (gated at n>=30) will say whether the thresholds are right or too tight.

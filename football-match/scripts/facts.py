@@ -1567,6 +1567,39 @@ def chaos_exposure(ins: dict, m: dict) -> dict:
     return {"exposed": exposed, "gap": gap}
 
 
+def red_card_risk_index(m: dict, ins: dict) -> tuple[float, str] | None:
+    """Quantitative red-card risk for the MATCH (not a prediction of the minute): a per-team-per-match
+    probability band built from what the report already holds — referee yellows/game, each side's
+    card discipline, flagged players. Baseline ~0.12 reds/team/match; each input multiplies it.
+    A FRAGILITY INPUT for the chaos forecast's HIGH check, never a priced market. 2026-11-01."""
+    p = 0.12
+    bits = []
+    ref = d(ins.get("referee_card_risk_note"))
+    ryc = num(ref.get("yellow_cards_per_game")) if ref else None
+    if ryc is not None:
+        f = max(0.6, min(2.0, ryc / 4.0))
+        p *= f
+        bits.append(f"referee {ref.get('referee_name','?')} {ryc:.1f} YC/g (x{f:.2f})")
+    elif ref and ref.get("elevated_card_referee"):
+        p *= 1.5
+        bits.append("referee flagged as high-card")
+    for side in ("home", "away"):
+        cd = d(ins.get(f"{side}_card_discipline"))
+        yc, rc = num(cd.get("yellow_per_game")), num(cd.get("red_per_game"))
+        if yc is not None:
+            f = max(0.75, min(1.6, 0.5 + 0.5 * yc / 1.5))
+            p *= f ** 0.5
+            bits.append(f"{side} cards {yc:.2f} YC/g (x{f:.2f}^0.5)")
+        if rc:
+            p *= 1.15
+    flagged = (ref or {}).get("flagged_players") or []
+    if flagged:
+        p *= 1.2
+        bits.append(f"{len(flagged)} players one booking from a ban")
+    band = "~25%+ (HIGH)" if p >= 0.20 else ("~15% (MODERATE)" if p >= 0.14 else "~8-10% (LOW)")
+    return min(p, 0.5), band + " — " + "; ".join(bits[:4])
+
+
 def chaos_section(m: dict, ins: dict, home, away) -> list[str]:
     """The chaos advocate's slice: what decides matches the forecast cannot see (errors that gift goals, a keeper's day, set pieces and penalties, cards),
     per side, so the advocate can say which side is more exposed and whether that widens the draw or the underdog. The MW8 misses of Oct 2026 (Villa 2-1 City,
@@ -1629,6 +1662,9 @@ def chaos_section(m: dict, ins: dict, home, away) -> list[str]:
     if ref_note:
         rn = d(ref_note)
         out.append(f"referee card risk: {rn.get('referee_name','?')} averages {rn.get('yellow_cards_per_game','?')} yellows a game" + (" (ELEVATED: this referee cards heavily — early-red risk up)" if rn.get("elevated_card_referee") else ""))
+    rcri = red_card_risk_index(m, ins)
+    if rcri:
+        out.append(f"RED-CARD RISK INDEX (fragility input, not a priced market): a red card is a ~{rcri[0]*100:.0f}% proposition this match ({rcri[1]})")
     tally = chaos_exposure(ins, m)                          # the authoritative count (also used by anything outside this slice): keeps the printed tally and chaos_exposure() from drifting apart
     out.append(f"EXPOSURE TALLY (factors where one side is worse, out of the comparable ones above): {home} {tally['exposed']['home']}, {away} {tally['exposed']['away']}")
     if tally["gap"] is not None:
