@@ -25,6 +25,7 @@ Token discipline: run the scripts blind. Never open the Python sources (`scripts
 3. Never retry after a hang, timeout or 403/429. The runner writes `output/.scrape_blocked` and refuses another live run for 1 h; tell the user, reuse a saved report, wait.
 4. A match already played needs a report saved before kickoff; a fresh scrape returns the finished match.
 5. The CLI also appends to `output/prediction-log.jsonl` (the engine's own log, not an analysis answer). No keys or cookies are read or printed.
+6. A finished match outside this scrape's reach (rule 4) is out of scope for this runner. If stats for one are gathered by hand via general web search instead, cross-check every number across at least two independent outlets first and discard anything impossible (a rate over 100%, a scorer who doesn't play for that club) — generic sports search results can carry corrupted or AI-generated numbers (confirmed: a Champions League recap wrongly credited goals to players from other clubs, and a stats page showed 225% tackle success).
 
 ## Handoff (automatic — do not stop at the report)
 A successful scrape is never the end of the job. Unless the user explicitly said "scrape only", proceed immediately with the report path:
